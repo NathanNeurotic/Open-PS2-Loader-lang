@@ -69,9 +69,7 @@ translations:
   ETHMODE: Modo de Início no ETH
   APPMODE: Modo de Início nos Aplicativos
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar o Servidor NBD
   STARTINGNBD: O servidor NBD está iniciando…
   RUNNINGNBD: O servidor NBD está sendo executado…
@@ -158,16 +156,10 @@ translations:
   ETH_PREFIX: Prefixo do Caminho ETH
   BACKSPACE: Apagar
   SPACE: Espaço
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Entrar
   MODE: Modo
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC do slot 1
+  VMC_SLOT2: VMC do slot 2
   GAME_ID: ID do Jogo
   DMA_MODE: Modo de DMA
   VSYNC: Sincronização do Vídeo

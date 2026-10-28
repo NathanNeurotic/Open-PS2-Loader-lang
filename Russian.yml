@@ -220,9 +220,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 по Bluetooth
   PADPORT: 'Настройки для порта:'
   HINT_PAD_PORT: Выбрать настройки для порта Pad эмулятора.
   PADEMU_PORT: Эмуляция

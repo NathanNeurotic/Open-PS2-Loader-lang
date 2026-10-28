@@ -8,9 +8,7 @@ translations:
   NETCONFIG: تثبيت و اعداد الشبكة
   SHOW_ADVANCED_OPTS: اعدادات متقدمة
   NO_ITEMS: <لا يوجد قيم>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: حُفظت الإعدادات في %s
   ERROR_SAVING_SETTINGS: هناك مشكلة في حفظ التغييرات
   EXIT: الخروج
   SETTINGS: الاعدادات
@@ -22,9 +20,7 @@ translations:
   THEME: تيمات
   LANGUAGE: لغات
   CONFIRMATION_POFF: سيتم ايقاف تشغيل النظام
-  CONFIRMATION_EXIT:
-  - untranslated
-  - original: Exit to Browser?
+  CONFIRMATION_EXIT: الخروج إلى المتصفح؟
   CONFIRMATION_CANCEL_UPDATE: الغاء التحديث ?
   HDD_NOT_CONNECTED_ERROR: '%d: لم يتم العثور على القرص الصلب'
   HDD_NOT_FORMATTED_ERROR: '%d: القرص المضغوط غير منسق'
@@ -46,9 +42,7 @@ translations:
   CROSS: ضرب
   GAMES_LIST: قائمة الالعاب
   COMPAT_SETTINGS: اعدادات اللعبة
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: إزالة الإعدادات
   SCROLLING: التمرير
   SLOW: ثقيل
   MEDIUM: متوسط
@@ -72,9 +66,7 @@ translations:
   SAVING_SETTINGS: حفظ الاعدادات
   START_DEVICE: تشغيل الجهاز
   REFRESH: اعادة تنشيط
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: وضع تشغيل BDM
   HDDMODE: طريقة تشغيل الجهاز HDD
   ETHMODE: طريقة تشغيل الجهاز ETH
   APPMODE: طريقة تشغيل الجهاز البرامج
@@ -122,9 +114,7 @@ translations:
   SELECTBUTTON: زر الاختيار
   ERR_FRAGMENTED: اللعبة مجزئة
   ERR_FILE_INVALID: غير ممكن تشغيل العنوان
-  TEST:
-  - untranslated
-  - original: Test Changes
+  TEST: اختبار التغييرات
   HINT_GUEST: ترك الفراغ لGUEST
   HINT_MODE1: قراءة دقيقة
   HINT_MODE2: الطريقة المتزامنة
@@ -147,9 +137,7 @@ translations:
   VMC_FILE_EXISTS: ملف VMC موجود
   VMC_FILE_ERROR: ملف فاسد , حجمه غير صحيح
   VMC_FILE_NEW: يجب صنع ملف VMC
-  ERR_VMC_CONTINUE:
-  - untranslated
-  - original: Error accessing VMC %s. Continue with the Memory Card in slot %d?
+  ERR_VMC_CONTINUE: خطأ في الوصول إلى VMC %s. المتابعة باستخدام بطاقة الذاكرة في المنفذ %d؟
   AUTOREFRESH: تحديث اوتوماتيكي
   ABOUT: معلومات حول …
   DEVS: المبرمجون
@@ -161,9 +149,7 @@ translations:
   VMODE: طريقة الفيديو
   UICOLOR: لون الكتابة
   SELCOLOR: اللون المختار
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: إعادة ضبط الألوان
   INFO: المعلومات
   ALTSTARTUP: تخصيص ELF
   COLOR_SELECTION: اختيار الالوان
@@ -220,9 +206,7 @@ translations:
   NO_CHEATS_FOUND: لا يوجد قائمة الغش لهذه اللعبة
   DL_DEFAULTS: تحميل الافتراضيات
   NET_UPDATE: التحديث عن طريق الشبكة
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE_ALL: استبدال السجلات الموجودة
   NET_UPDATE_FAILED: فشل التحديث
   NET_UPDATE_CONN_FAILED: فشل في الاتصال بسيرفر التحديث
   NET_UPDATE_DONE: انتهى التحديث
@@ -233,204 +217,110 @@ translations:
   AUTO_START_IN_N_SECS: البدء%i الاوتوماتيكي في  ثانية…
   AUTOSTARTLAST: البدء الاوتوماتيكي
   HINT_AUTOSTARTLAST: النسبة في الدقيقة, 0 للالغاء التدوير باستمرار
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: شعار PS2
   HINT_PS2LOGO: (Only displayed for a valid disc logo which matches the console's
     region)
   PADEMUCONFIG:
   - untranslated
   - original: Configure PADEMU
-  PADEMU_SETTINGS:
-  - untranslated
-  - original: Pad Emulator Settings
+  PADEMU_SETTINGS: إعدادات محاكي وحدة التحكم
   PADEMU_ENABLE:
   - untranslated
   - original: Pad Emulator
   HINT_PADEMU_ENABLE: Turns on/off PadEmulator for selected game.
   PADEMU_MODE: Pad Emulator mode
-  HINT_PADEMU_MODE:
-  - untranslated
-  - original: Select Pad Emulator mode.
+  HINT_PADEMU_MODE: اختر وضع محاكي وحدة التحكم.
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Settings for port:'
-  HINT_PAD_PORT:
-  - untranslated
-  - original: Select Pad Emulator port for settings.
+  HINT_PAD_PORT: اختر منفذ محاكي وحدة التحكم للإعدادات.
   PADEMU_PORT:
   - untranslated
   - original: Emulation
-  HINT_PADEMU_PORT:
-  - untranslated
-  - original: Turns on/off Pad Emulator for selected port.
+  HINT_PADEMU_PORT: تشغيل أو إيقاف محاكي وحدة التحكم للمنفذ المحدد.
   PADEMU_VIB:
   - untranslated
   - original: Vibration
-  HINT_PADEMU_VIB:
-  - untranslated
-  - original: Turns on/off vibration for Pad Emulator selected port.
+  HINT_PADEMU_VIB: تشغيل أو إيقاف الاهتزاز لمنفذ محاكي وحدة التحكم المحدد.
   USBDG_MAC: 'Usb bluetooth adapter mac address:'
   PAD_MAC: 'DS Controller paired to mac address:'
-  PAIR:
-  - untranslated
-  - original: Pair
-  PAIR_PAD:
-  - untranslated
-  - original: Pair DS Controller
+  PAIR: إقران
+  PAIR_PAD: إقران وحدة تحكم DS
   HINT_PAIRPAD: Pair DS Controller with bluetooth adapter mac address.
   NOT_CONNECTED: Not connected
   BTINFO: Bluetooth adapter information
   HINT_BTINFO: Shows more information and supported features
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  HCIVER: 'إصدار HCI:'
+  LMPVER: 'إصدار LMP:'
+  MANUFACTURER: 'معرّف الشركة المصنعة:'
   SUPFEATURES: 'Support features:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
-  BT_SUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter should be fully compatible with DS3/DS4 controllers.
-  BT_NOTSUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter may not work correctly with DS3/DS4 controllers.
+  'YES': نعم
+  'NO': لا
+  BT_SUPPORTED: يُفترض أن يكون محوّل Bluetooth متوافقاً تماماً مع وحدات تحكم DS3/DS4.
+  BT_NOTSUPPORTED: قد لا يعمل محوّل Bluetooth بشكل صحيح مع وحدات تحكم DS3/DS4.
   MTAP_ENABLE: Multitap emulation
-  HINT_MTAP_ENABLE:
-  - untranslated
-  - original: Turns on/off Multitap emulation for selected game.
+  HINT_MTAP_ENABLE: تشغيل أو إيقاف محاكاة Multitap للعبة المحددة.
   MTAP_PORT: Multitap emulator on port
-  HINT_MTAP_PORT:
-  - untranslated
-  - original: Select port for Multitap emulation.
+  HINT_MTAP_PORT: اختر المنفذ لمحاكاة Multitap.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: بعض وحدات DS3 المقلدة تحتاج إلى حل بديل، وهذا الخيار يفعّله.
   GSM_FIELD_FIX: Emulate FIELD flipping
-  HINT_GSM_FIELD_FIX:
-  - untranslated
-  - original: Fix for games that glitch under progressive video modes.
-  PARENLOCKCONFIG:
-  - untranslated
-  - original: Parental Lock Settings
-  PARENLOCK_PASSWORD:
-  - untranslated
-  - original: Parental Lock Password
-  PARENLOCK_PASSWORD_HINT:
-  - untranslated
-  - original: Leave blank to disable the parental lock.
-  PARENLOCK_ENTER_PASSWORD_TITLE:
-  - untranslated
-  - original: Enter Parental Lock Password
-  PARENLOCK_PASSWORD_INCORRECT:
-  - untranslated
-  - original: Parental lock password incorrect.
-  PARENLOCK_DISABLE_WARNING:
-  - untranslated
-  - original: Parental lock disabled.
-  BUILD_DETAILS:
-  - untranslated
-  - original: 'Build Options:'
-  PARENLOCK_INVALID_PASSWORD:
-  - untranslated
-  - original: Error - this password cannot be used.
-  ERR_VMC_FRAGMENTED_CONTINUE:
-  - untranslated
-  - original: VMC %s file is fragmented. Continue with Memory Card in slot %d?
-  AUDIO_SETTINGS:
-  - untranslated
-  - original: Audio Settings
+  HINT_GSM_FIELD_FIX: إصلاح للألعاب التي تضطرب في أوضاع الفيديو التقدمية.
+  PARENLOCKCONFIG: إعدادات الرقابة الأبوية
+  PARENLOCK_PASSWORD: كلمة مرور الرقابة الأبوية
+  PARENLOCK_PASSWORD_HINT: اتركها فارغة لتعطيل الرقابة الأبوية.
+  PARENLOCK_ENTER_PASSWORD_TITLE: أدخل كلمة مرور الرقابة الأبوية
+  PARENLOCK_PASSWORD_INCORRECT: كلمة مرور الرقابة الأبوية غير صحيحة.
+  PARENLOCK_DISABLE_WARNING: عُطّلت الرقابة الأبوية.
+  BUILD_DETAILS: 'خيارات البناء:'
+  PARENLOCK_INVALID_PASSWORD: 'خطأ: لا يمكن استخدام كلمة المرور هذه.'
+  ERR_VMC_FRAGMENTED_CONTINUE: ملف VMC %s مجزأ. المتابعة باستخدام بطاقة الذاكرة في المنفذ %d؟
+  AUDIO_SETTINGS: إعدادات الصوت
   SFX:
   - untranslated
   - original: Sound Effects
   BOOT_SND:
   - untranslated
   - original: Boot Sound
-  SFX_VOLUME:
-  - untranslated
-  - original: Sound Effects Volume
-  BOOT_SND_VOLUME:
-  - untranslated
-  - original: Boot Sound Volume
-  CFM_VMODE_CHG:
-  - untranslated
-  - original: Confirm video mode change?
+  SFX_VOLUME: مستوى صوت المؤثرات
+  BOOT_SND_VOLUME: مستوى صوت الإقلاع
+  CFM_VMODE_CHG: تأكيد تغيير وضع الفيديو؟
   CACHE_HDD_GAME_LIST:
   - untranslated
   - original: Cache Game List (HDD)
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: حُمّلت الإعدادات من %s
+  THM_NOTIFICATION: حُمّلت السمة من %s
+  LNG_NOTIFICATION: حُمّلت اللغة من %s
+  PARTITION_NOTIFICATION: رُكّب القسم %s.
   OPTIONS:
   - untranslated
   - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
+  GAME_SETTINGS_SAVED: حُفظت إعدادات اللعبة.
+  GAME_SETTINGS_REMOVED: أُزيلت إعدادات %s.
+  NET_UPDATE_HINT: يستبدل إعدادات توافق الألعاب الموجودة عند تفعيله.
+  SETTINGS_SOURCE: وضع الإعدادات
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  PERGAME_SETTINGS: لكل لعبة
+  ALL_SETTINGS: الكل
+  GAME_SETTINGS_PROMPT: اختر الإعدادات المراد إزالتها.
+  FORUM_DETAILS: 'منتديات الدعم:'
+  INFO_TITLE: العنوان
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: المطوّر
   INFO_DESCRIPTION:
   - untranslated
   - original: Description

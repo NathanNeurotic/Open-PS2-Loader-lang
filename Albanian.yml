@@ -35,9 +35,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Nuk ka lidhje me Rrjetin.'
   'ON': Ndezur
   'OFF': Fikur
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Zgjidhe
   CANCEL: Anulo
   CIRCLE: Rreth
@@ -75,9 +73,7 @@ translations:
   RUNNINGNBD: Serveri NBD duke punuar…
   STARTFAILNBD: Dështoi të nisi Serverin NBD.
   UNLOADNBD: Serveri NBD po shkarkohet…
-  EXITTO:
-  - untranslated
-  - original: IGR Path
+  EXITTO: Shtegu IGR
   BGCOLOR: Ngjyra e Sfondit
   TXTCOLOR: Ngjyra e Tekstit
   CAT_SMB_SERVER: '- Serveri SMB -'
@@ -88,25 +84,15 @@ translations:
   - original: DHCP
   IP_ADDRESS: Adresa IP
   ADDRESS: Adresa
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
+  MASK: Maska
+  GATEWAY: Porta e kalimit
   DNS_SERVER: Serveri DNS
   PORT:
   - untranslated
   - original: Port
-  SHARE:
-  - untranslated
-  - original: Share
-  USER:
-  - untranslated
-  - original: User
-  PASSWORD:
-  - untranslated
-  - original: Password
+  SHARE: Dosja e ndarë
+  USER: Përdoruesi
+  PASSWORD: Fjalëkalimi
   NOT_SET: <nuk është vënë>
   ADDRESS_TYPE: Lloji i Adresës
   ADDR_TYPE_IP:
@@ -155,9 +141,7 @@ translations:
   ABOUT: Rreth
   DEVS: Koduesit
   QANDA: Kontroll Cilësie
-  BDM_PREFIX:
-  - untranslated
-  - original: BDM Prefix Path
+  BDM_PREFIX: Shtegu i prefiksit BDM
   HINT_EXITPATH: Nis një ELF te modifikuar pas një IGR.
   HINT_SPINDOWN: Vlera ne minuta, 0 për të çaktivizuar fikjen e rrotullimit.
   HDD_SPINDOWN: Fikja Automatike e Rrotullimit të HDD
@@ -165,33 +149,21 @@ translations:
   UICOLOR: Ngjyra e Dialogut
   SELCOLOR: Ngjyra e Zgjedhur
   RESETCOLOR: Rivendos Ngjyrat
-  INFO:
-  - untranslated
-  - original: Info
+  INFO: Informacion
   ALTSTARTUP: ELF i modifikuar
   COLOR_SELECTION: Përzgjedhja e Ngjyrave
   RECONNECT: Rilidhu
   HINT_SHARENAME: Lëre bosh për te listuar te gjitha shpërndarjet.
-  ETH_PREFIX:
-  - untranslated
-  - original: ETH Prefix Path
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
+  ETH_PREFIX: Shtegu i prefiksit ETH
+  BACKSPACE: Fshi pas
   SPACE: Hapësira
   ENTER: Hy
   MODE: Metoda
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: Foleja VMC 1
+  VMC_SLOT2: Foleja VMC 2
   GAME_ID: ID e Lojës
   DMA_MODE: Mënyra DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: V-Sync
   MODE1: Menyra 1
   MODE2: Menyra 2
   MODE3: Menyra 3
@@ -200,29 +172,17 @@ translations:
   MODE6: Menyra 6
   GSCONFIG: Konfiguro GSM
   ETH_OPMODE: Menyra e lidhjes me Ethernet
-  ETH_100MFDX:
-  - untranslated
-  - original: 100Mbit Full-duplex
-  ETH_100MHDX:
-  - untranslated
-  - original: 100Mbit Half-duplex
-  ETH_10MFDX:
-  - untranslated
-  - original: 10Mbit Full-duplex
-  ETH_10MHDX:
-  - untranslated
-  - original: 10Mbit Half-duplex
+  ETH_100MFDX: 100Mbit full-duplex
+  ETH_100MHDX: 100Mbit half-duplex
+  ETH_10MFDX: 10Mbit full-duplex
+  ETH_10MHDX: 10Mbit half-duplex
   GSM_SETTINGS: Cilësimet GSM
   ENABLEGSM: Zgjedhësi GSM
   HINT_ENABLEGSM: Ndërron GSM fikur/ndezur.
   HINT_GSMVMODE: Përforco Mënyrën e Paraqitjes së modifikuar.
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: H-POS
   HINT_XOFFSET: Përshtatje Horizontale
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: V-POS
   HINT_YOFFSET: Përshtatje Vertikale
   OVERSCAN: Skanim i gjerë
   HINT_OVERSCAN: Përshtatje e skanimit të gjerë
@@ -265,9 +225,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Cilësimet Për Portën:'
   HINT_PAD_PORT: Zgjidh porten e Pad Emulator për cilësimet.
   PADEMU_PORT: Imitimi
@@ -282,15 +240,9 @@ translations:
   NOT_CONNECTED: Nuk është lidhur
   BTINFO: Bluetooth Adapter Informacion
   HINT_BTINFO: Tregon më shumë informacion dhe veçoritë e mbështetura.
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  HCIVER: 'Versioni HCI:'
+  LMPVER: 'Versioni LMP:'
+  MANUFACTURER: 'ID e prodhuesit:'
   SUPFEATURES: 'Veçoritë e Mbështetura:'
   'YES': Po
   'NO': Jo

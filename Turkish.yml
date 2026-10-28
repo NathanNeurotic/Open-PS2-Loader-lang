@@ -173,18 +173,10 @@ translations:
   MODE6: Kip 6
   GSCONFIG: GSM Yapılandırması
   ETH_OPMODE: Ethernet Link Kipi
-  ETH_100MFDX:
-  - untranslated
-  - original: 100Mbit Full-duplex
-  ETH_100MHDX:
-  - untranslated
-  - original: 100Mbit Half-duplex
-  ETH_10MFDX:
-  - untranslated
-  - original: 10Mbit Full-duplex
-  ETH_10MHDX:
-  - untranslated
-  - original: 10Mbit Half-duplex
+  ETH_100MFDX: 100Mbit Tam çift yönlü
+  ETH_100MHDX: 100Mbit Yarı çift yönlü
+  ETH_10MFDX: 10Mbit Tam çift yönlü
+  ETH_10MHDX: 10Mbit Yarı çift yönlü
   GSM_SETTINGS: GSM Ayarları
   ENABLEGSM: GSM Seçici
   HINT_ENABLEGSM: GSM aç/kapat.
@@ -219,9 +211,7 @@ translations:
   AUTO_START_IN_N_SECS: '%i içinde otomatik başlat…'
   AUTOSTARTLAST: Otomatik Başlat
   HINT_AUTOSTARTLAST: Otomatik başlatmayı kapatmak için saniye cinsinden değer, 0.
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: PS2 Logosu
   HINT_PS2LOGO: Konsol bölgesiyle eşleşen mevcut disk logosu görüntülenir.
   PADEMUCONFIG: Denetleyici Emülatörü Yapılandırması
   PADEMU_SETTINGS: Denetleyici Emülatör Ayarları
@@ -232,9 +222,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Port Ayarları:'
   HINT_PAD_PORT: Ayarlar için Denetleyici Emülatör portunu seçin.
   PADEMU_PORT: Emülatör

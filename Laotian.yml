@@ -8,9 +8,7 @@ translations:
   NETCONFIG: ກຳນົດຄ່າທາງດ້ານ Network
   SHOW_ADVANCED_OPTS: ທາງເລືອກສຳລັບການຕັ້ງຄ່າຂັ້ນສູງ
   NO_ITEMS: <ບໍ່ມີຄ່າໃດໆ>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: ບັນທຶກການຕັ້ງຄ່າ ໄວ້ໃນ %s ແລ້ວ
   ERROR_SAVING_SETTINGS: ການຂຽນການຕັ້ງຄ່າມີຂໍ້ຜິດພາດ!
   EXIT: ອອກຈາກໂປຣແກຣມ
   SETTINGS: ການຕັ້ງຄ່າ
@@ -44,9 +42,7 @@ translations:
   CROSS: ຄູນ
   GAMES_LIST: ໄປທີ່ລາຍຊື່ເກມ
   COMPAT_SETTINGS: ຕັ້ງຄ່າໃຫ້ເກມນີ້
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: ລົບການຕັ້ງຄ່າ
   SCROLLING: ການເລື່ອນ
   SLOW: ຊ້າໆ
   MEDIUM: ປານກາງ
@@ -70,9 +66,7 @@ translations:
   SAVING_SETTINGS: ກຳລັງບັນທຶກການຕັ້ງຄ່າ
   START_DEVICE: ເປີດໃຊ້ອຸປະກອນເຊື່ອມຕໍ່
   REFRESH: ເອີ້ນຄືນໃໝ່
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: ໂໝດເລີ່ມຕົ້ນ BDM
   HDDMODE: ໂໝດ ເຊື່ອມຕໍ່ອຸປະກອນ Hard Disk
   ETHMODE: ໂໝດ ເຊື່ອມຕໍ່ອຸປະກອນ Network
   APPMODE: ໂໝດ ຕ່າງໆສຳລັບໂປຣແກຣມ
@@ -81,16 +75,12 @@ translations:
   STARTNBD: ເປີດໃຊ້ NBD Server
   STARTINGNBD: NBD Server ກຳລັງເລີ່ມໃຊ້ງານ…
   RUNNINGNBD: NBD Server ກໍາລັງດໍາເນີນການ…
-  STARTFAILNBD:
-  - untranslated
-  - original: Failed to start NBD Server.
+  STARTFAILNBD: ເລີ່ມເຊີບເວີ NBD ບໍ່ໄດ້.
   UNLOADNBD: NBD Server ກໍາລັງຢຸດການໃຊ້ງານ…
   EXITTO: IGR path
   BGCOLOR: ສີຂອງພື້ນຫຼັງ
   TXTCOLOR: ສີຂອງຂໍ້ຄວາມ
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- ເຊີບເວີ SMB -'
   IP_ADDRESS_TYPE: ປະເພດຂອງ IP address
   IP_ADDRESS_TYPE_STATIC: ຄ່າຄົງທີ່
   IP_ADDRESS_TYPE_DHCP:
@@ -98,21 +88,13 @@ translations:
   - original: DHCP
   IP_ADDRESS: ເລກ IP address
   ADDRESS: ທີ່ຢູ່
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
+  MASK: Mask
+  GATEWAY: Gateway
+  DNS_SERVER: ເຊີບເວີ DNS
   PORT:
   - untranslated
   - original: Port
-  SHARE:
-  - untranslated
-  - original: Share
+  SHARE: ແຊ
   USER: ຜູ້ໃຊ້
   PASSWORD: ລະຫັດຜ່ານ
   NOT_SET: <ບໍ່ມີຄ່າທີ່ຖືກຕັ້ງ>
@@ -134,25 +116,17 @@ translations:
   SELECTBUTTON: ເລືອກປຸ່ມ
   ERR_FRAGMENTED: ເກີດຂໍ້ຜິດພາດ, ເກມນີ້ມີ fragmentation. ກະລຸນາ Defragment ເກມນີ້ກ່ອນ
   ERR_FILE_INVALID: ເກີດຂໍ້ຜິດພາດ, ບໍ່ສາມາດເປີດໃຊ້ງານໄດ້
-  TEST:
-  - untranslated
-  - original: Test Changes
+  TEST: ທົດສອບ ການປ່ຽນແປງ
   HINT_GUEST: ບໍ່ມີຄ່າກຳນົດໃດໆສຳລັບການເຂົ້າເຖິງຂອງ GUEST
   HINT_MODE1: ອ່ານແບບຖືກຕ້ອງແມ່ນຍຳ
   HINT_MODE2: ວິທີການອ່ານຂໍ້ມູນທີ່ມີທາງເລືອກ
-  HINT_MODE3:
-  - untranslated
-  - original: Unhook Syscalls
+  HINT_MODE3: ປົດ Syscall
   HINT_MODE4: ຂ້າມການຫຼິ້ນວິດິໂອ
   HINT_MODE5: ປະມວນຜົນ DVD-DL
-  HINT_MODE6:
-  - untranslated
-  - original: Disable IGR
+  HINT_MODE6: ປິດ IGR
   HINT_VMC_SIZE: ການປ່ຽນຂະໜາດຈະເຮັດໃຫ້ VMC(ກ້ອນເຊບສະເໝືອນຈິງ) ຖືກ format ໃໝ່
   CREATE: ສ້າງ
-  START:
-  - untranslated
-  - original: Start
+  START: ເລີ່ມ
   MODIFY: ແກ້ໄຂ
   ABORT: ຢຸດ
   RESET: ຕັ້ງຄ່າໃໝ່
@@ -165,9 +139,7 @@ translations:
   VMC_FILE_EXISTS: ມີ File ຂອງ VMC ຢູ່ແລ້ວ
   VMC_FILE_ERROR: ຂະໜາດຂອງ File VMC ບໍ່ຖືກຕ້ອງ
   VMC_FILE_NEW: File VMC(ກ້ອນເຊບສະເໝືອນຈິງ) ຈະຕ້ອງຖືກສ້າງຂຶ້ນ
-  ERR_VMC_CONTINUE:
-  - untranslated
-  - original: Error accessing VMC %s. Continue with the Memory Card in slot %d?
+  ERR_VMC_CONTINUE: ເຂົ້າເຖິງ VMC %s ບໍ່ໄດ້. ສືບຕໍ່ ດ້ວຍເມມໂມຣີກາດ ໃນຊ່ອງ %d ບໍ?
   AUTOREFRESH: ເອີ້ນຄືນໃໝ່ແບບອັດຕະໂນມັດ
   ABOUT: ກ່ຽວກັບໂປຣແກຣມ
   DEVS: ກຸ່ມນັກພັດທະນາໂປຣແກຣມ
@@ -179,36 +151,22 @@ translations:
   VMODE: ໂໝດວິດິໂອ
   UICOLOR: ສີ Dialog
   SELCOLOR: ສີທີ່ຖືກເລືອກ
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: ຣີເຊັດສີ
   INFO: ຂໍ້ມູນ
   ALTSTARTUP: ELF ທີ່ຖືກປັບແຕ່ງເອງ
   COLOR_SELECTION: ເລືອກສີ
   RECONNECT: ເຊື່ອມຕໍ່ອີກຄັ້ງ
   HINT_SHARENAME: ບໍ່ມີຄ່າກຳນົດໃດໆຕໍ່ການສະແດງລາຍການທີ່ເປີດ share
   ETH_PREFIX: ETH prefix path
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
-  SPACE:
-  - untranslated
-  - original: Space
-  ENTER:
-  - untranslated
-  - original: Enter
+  BACKSPACE: ລົບຖອຍຫຼັງ
+  SPACE: ຍະຫວ່າງ
+  ENTER: ປ້ອນ
   MODE: ໂໝດ
   VMC_SLOT1: VMC(ກ້ອນເຊບສະເໝືອນຈິງ) ຊ່ອງ 1
   VMC_SLOT2: VMC(ກ້ອນເຊບສະເໝືອນຈິງ) ຊ່ອງ 2
-  GAME_ID:
-  - untranslated
-  - original: Game ID
-  DMA_MODE:
-  - untranslated
-  - original: DMA Mode
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  GAME_ID: ID ເກມ
+  DMA_MODE: ໂໝດ DMA
+  VSYNC: V-Sync
   MODE1: ໂໝດ  1
   MODE2: ໂໝດ  2
   MODE3: ໂໝດ  3
@@ -227,13 +185,9 @@ translations:
   - original: GSM Selector
   HINT_ENABLEGSM: Toggles GSM ເປີດ ຫຼື ປິດ
   HINT_GSMVMODE: ບັງຄັບໃຊ້ໂໝດການສະແດງຜົນທີ່ປັບແຕ່ງເອງ
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: ຕຳແໜ່ງ ລວງນອນ
   HINT_XOFFSET: ການປັບແຕ່ງຄ່າສະແດງຜົນຕາມແນວນອນ
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: ຕຳແໜ່ງ ລວງຕັ້ງ
   HINT_YOFFSET: ການປັບແຕ່ງຄ່າສະແດງຜົນຕາມແນວຕັ້ງ
   OVERSCAN:
   - untranslated
@@ -254,9 +208,7 @@ translations:
   NO_CHEATS_FOUND: ບໍ່ພົບ File ໂກງເກມໃດໆ
   DL_DEFAULTS: ດາວໂຫຼດຄ່າມາດຕະຖານ
   NET_UPDATE: ອັບເດດ Network
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE_ALL: ຂຽນທັບ ຂໍ້ມູນທີ່ມີຢູ່
   NET_UPDATE_FAILED: ການອັບເດດເກີດຂໍ້ຜິດພາດ.
   NET_UPDATE_CONN_FAILED: ການເຊື່ອມຕໍ່ເພື່ອອັບເດດ Server ບໍ່ສົມບູນ.
   NET_UPDATE_DONE: ການອັບເດດສົມບູນ.
@@ -267,203 +219,109 @@ translations:
   AUTO_START_IN_N_SECS: ເລີ່ມຕົ້ນອັດຕະໂນມັດ ພາຍໃນ %i ວິນາທີ…
   AUTOSTARTLAST: ເປີດໃຊ້ແບບໂອໂຕ
   HINT_AUTOSTARTLAST: ຕັ້ງຄ່າຫົວໜ່ວຍ ວິນາທີ, ໃສ່ 0 ເພື່ອປິດການເປີດໃຊ້ແບບໂອໂຕ
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: ໂລໂກ້ PS2
   HINT_PS2LOGO: ຈະຖືກສະແດງຜົນ ກໍຕໍ່ເມື່ອໂລໂກ້ຂອງແຜ່ນຖືກຕ້ອງ ແລະ ສອດຄ່ອງຕາມໂຊນຂອງເຄື່ອງ
   PADEMUCONFIG:
   - untranslated
   - original: Configure PADEMU
-  PADEMU_SETTINGS:
-  - untranslated
-  - original: Pad Emulator Settings
+  PADEMU_SETTINGS: ການຕັ້ງຄ່າ ໂຕຈຳລອງຈອຍ
   PADEMU_ENABLE:
   - untranslated
   - original: Pad Emulator
   HINT_PADEMU_ENABLE: Turns on/off PadEmulator for selected game.
   PADEMU_MODE: Pad Emulator mode
-  HINT_PADEMU_MODE:
-  - untranslated
-  - original: Select Pad Emulator mode.
+  HINT_PADEMU_MODE: ເລືອກໂໝດ ໂຕຈຳລອງຈອຍ.
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Settings for port:'
-  HINT_PAD_PORT:
-  - untranslated
-  - original: Select Pad Emulator port for settings.
+  HINT_PAD_PORT: ເລືອກພອດ ໂຕຈຳລອງຈອຍ ສຳລັບການຕັ້ງຄ່າ.
   PADEMU_PORT:
   - untranslated
   - original: Emulation
-  HINT_PADEMU_PORT:
-  - untranslated
-  - original: Turns on/off Pad Emulator for selected port.
+  HINT_PADEMU_PORT: ເປີດ ຫຼື ປິດ ໂຕຈຳລອງຈອຍ ສຳລັບພອດທີ່ເລືອກ.
   PADEMU_VIB:
   - untranslated
   - original: Vibration
-  HINT_PADEMU_VIB:
-  - untranslated
-  - original: Turns on/off vibration for Pad Emulator selected port.
+  HINT_PADEMU_VIB: ເປີດ ຫຼື ປິດ ການສັ່ນ ສຳລັບພອດທີ່ເລືອກ ຂອງໂຕຈຳລອງຈອຍ.
   USBDG_MAC: 'Usb bluetooth adapter mac address:'
   PAD_MAC: 'DS Controller paired to mac address:'
-  PAIR:
-  - untranslated
-  - original: Pair
-  PAIR_PAD:
-  - untranslated
-  - original: Pair DS Controller
+  PAIR: ຈັບຄູ່
+  PAIR_PAD: ຈັບຄູ່ ຈອຍ DS
   HINT_PAIRPAD: Pair DS Controller with bluetooth adapter mac address.
   NOT_CONNECTED: Not connected
   BTINFO: Bluetooth adapter information
   HINT_BTINFO: Shows more information and supported features
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  HCIVER: 'ເວີຊັນ HCI:'
+  LMPVER: 'ເວີຊັນ LMP:'
+  MANUFACTURER: 'ID ຜູ້ຜະລິດ:'
   SUPFEATURES: 'Support features:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
-  BT_SUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter should be fully compatible with DS3/DS4 controllers.
-  BT_NOTSUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter may not work correctly with DS3/DS4 controllers.
+  'YES': ແມ່ນ
+  'NO': ບໍ່
+  BT_SUPPORTED: ອະແດັບເຕີ Bluetooth ຄວນເຂົ້າກັນໄດ້ຢ່າງເຕັມທີ່ ກັບຈອຍ DS3/DS4.
+  BT_NOTSUPPORTED: ອະແດັບເຕີ Bluetooth ອາດເຮັດວຽກ ບໍ່ຖືກຕ້ອງ ກັບຈອຍ DS3/DS4.
   MTAP_ENABLE: Multitap emulation
-  HINT_MTAP_ENABLE:
-  - untranslated
-  - original: Turns on/off Multitap emulation for selected game.
+  HINT_MTAP_ENABLE: ເປີດ ຫຼື ປິດ ການຈຳລອງ Multitap ສຳລັບເກມທີ່ເລືອກ.
   MTAP_PORT: Multitap emulator on port
-  HINT_MTAP_PORT:
-  - untranslated
-  - original: Select port for Multitap emulation.
+  HINT_MTAP_PORT: ເລືອກພອດ ສຳລັບການຈຳລອງ Multitap.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: DS3 ປອມບາງອັນ ຕ້ອງການວິທີແກ້ພິເສດ, ຕົວເລືອກນີ້ ເປີດມັນ.
   GSM_FIELD_FIX: Emulate FIELD flipping
-  HINT_GSM_FIELD_FIX:
-  - untranslated
-  - original: Fix for games that glitch under progressive video modes.
-  PARENLOCKCONFIG:
-  - untranslated
-  - original: Parental Lock Settings
-  PARENLOCK_PASSWORD:
-  - untranslated
-  - original: Parental Lock Password
-  PARENLOCK_PASSWORD_HINT:
-  - untranslated
-  - original: Leave blank to disable the parental lock.
-  PARENLOCK_ENTER_PASSWORD_TITLE:
-  - untranslated
-  - original: Enter Parental Lock Password
-  PARENLOCK_PASSWORD_INCORRECT:
-  - untranslated
-  - original: Parental lock password incorrect.
-  PARENLOCK_DISABLE_WARNING:
-  - untranslated
-  - original: Parental lock disabled.
-  BUILD_DETAILS:
-  - untranslated
-  - original: 'Build Options:'
-  PARENLOCK_INVALID_PASSWORD:
-  - untranslated
-  - original: Error - this password cannot be used.
-  ERR_VMC_FRAGMENTED_CONTINUE:
-  - untranslated
-  - original: VMC %s file is fragmented. Continue with Memory Card in slot %d?
-  AUDIO_SETTINGS:
-  - untranslated
-  - original: Audio Settings
+  HINT_GSM_FIELD_FIX: ການແກ້ ສຳລັບເກມທີ່ມີບັນຫາ ໃນໂໝດວິດີໂອ progressive.
+  PARENLOCKCONFIG: ການຕັ້ງຄ່າ ລັອກຜູ້ປົກຄອງ
+  PARENLOCK_PASSWORD: ລະຫັດຜ່ານ ລັອກຜູ້ປົກຄອງ
+  PARENLOCK_PASSWORD_HINT: ປ່ອຍວ່າງ ເພື່ອປິດ ລັອກຜູ້ປົກຄອງ.
+  PARENLOCK_ENTER_PASSWORD_TITLE: ປ້ອນລະຫັດຜ່ານ ລັອກຜູ້ປົກຄອງ
+  PARENLOCK_PASSWORD_INCORRECT: ລະຫັດຜ່ານ ລັອກຜູ້ປົກຄອງ ບໍ່ຖືກຕ້ອງ.
+  PARENLOCK_DISABLE_WARNING: ປິດ ລັອກຜູ້ປົກຄອງ ແລ້ວ.
+  BUILD_DETAILS: 'ຕົວເລືອກ ບິວ:'
+  PARENLOCK_INVALID_PASSWORD: 'ຂໍ້ຜິດພາດ: ລະຫັດຜ່ານນີ້ ໃຊ້ບໍ່ໄດ້.'
+  ERR_VMC_FRAGMENTED_CONTINUE: ໄຟລ໌ VMC %s ແຕກເປັນທ່ອນ. ສືບຕໍ່ ດ້ວຍເມມໂມຣີກາດ ໃນຊ່ອງ %d ບໍ?
+  AUDIO_SETTINGS: ການຕັ້ງຄ່າສຽງ
   SFX:
   - untranslated
   - original: Sound Effects
   BOOT_SND:
   - untranslated
   - original: Boot Sound
-  SFX_VOLUME:
-  - untranslated
-  - original: Sound Effects Volume
-  BOOT_SND_VOLUME:
-  - untranslated
-  - original: Boot Sound Volume
-  CFM_VMODE_CHG:
-  - untranslated
-  - original: Confirm video mode change?
+  SFX_VOLUME: ລະດັບສຽງ ເອັບເຟັກ
+  BOOT_SND_VOLUME: ລະດັບສຽງ ເປີດເຄື່ອງ
+  CFM_VMODE_CHG: ຢືນຢັນ ການປ່ຽນໂໝດວິດີໂອ ບໍ?
   CACHE_HDD_GAME_LIST:
   - untranslated
   - original: Cache Game List (HDD)
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: ໂຫຼດການຕັ້ງຄ່າ ຈາກ %s ແລ້ວ
+  THM_NOTIFICATION: ໂຫຼດທີມ ຈາກ %s ແລ້ວ
+  LNG_NOTIFICATION: ໂຫຼດພາສາ ຈາກ %s ແລ້ວ
+  PARTITION_NOTIFICATION: ເມົາພາທິຊັນ %s ແລ້ວ.
   OPTIONS:
   - untranslated
   - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
+  GAME_SETTINGS_SAVED: ບັນທຶກການຕັ້ງຄ່າເກມ ແລ້ວ.
+  GAME_SETTINGS_REMOVED: ລົບການຕັ້ງຄ່າ %s ແລ້ວ.
+  NET_UPDATE_HINT: ຂຽນທັບ ການຕັ້ງຄ່າຄວາມເຂົ້າກັນໄດ້ ຂອງເກມທີ່ມີຢູ່ ເມື່ອເປີດ.
+  SETTINGS_SOURCE: ໂໝດ ການຕັ້ງຄ່າ
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  PERGAME_SETTINGS: ແຕ່ລະເກມ
+  ALL_SETTINGS: ທັງໝົດ
+  GAME_SETTINGS_PROMPT: ເລືອກການຕັ້ງຄ່າ ທີ່ຈະລົບ.
+  FORUM_DETAILS: 'ຟໍຣັມ ຊ່ວຍເຫຼືອ:'
+  INFO_TITLE: ຫົວຂໍ້
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: ຜູ້ພັດທະນາ
   INFO_DESCRIPTION:
   - untranslated
   - original: Description

@@ -35,9 +35,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Nincs hálózati kapcsolat'
   'ON': Be
   'OFF': Ki
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Kiválaszt
   CANCEL: Vissza
   CIRCLE: Kör
@@ -156,21 +154,15 @@ translations:
   RECONNECT: Újracsatlakozás
   HINT_SHARENAME: Hagyja üresen a megosztások listázásához
   ETH_PREFIX: ETH előtag elérési út
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
+  BACKSPACE: Visszatörlés
   SPACE: Szóköz
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Mód
   VMC_SLOT1: VMC foglalat 1
   VMC_SLOT2: VMC foglalat 2
   GAME_ID: Játék ID
   DMA_MODE: DMA mód
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: Függőleges szinkron
   MODE1: Mód 1
   MODE2: Mód 2
   MODE3: Mód 3
@@ -236,9 +228,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Port beállítások:'
   HINT_PAD_PORT: Válassza ki a PadEmulátor portot a beállításokhoz.
   PADEMU_PORT:
@@ -267,18 +257,14 @@ translations:
     a DS3/DS4 kontrollerekkel.
   BT_NOTSUPPORTED: A Bluetooth adapter nem biztos, hogy megfelelően fog működni DS3/DS4
     kontrollerekkel.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Multitap emuláció
   HINT_MTAP_ENABLE: Ki/be kapcsolja a Multitap emulációt a kiválasztott játékhoz.
   MTAP_PORT: Multitap emuláció ezen a porton
   HINT_MTAP_PORT: Válassza ki a portot a Multitap emulációhoz.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Néhány utángyártott DS3-nak kerülőmegoldás kell; ez a beállítás bekapcsolja.
   GSM_FIELD_FIX: FIELD flipping emulálása
   HINT_GSM_FIELD_FIX: Fix azon játékokhoz, melyek hibát produkálnak progresszív videó
     mód alatt.
@@ -300,15 +286,9 @@ translations:
   CFM_VMODE_CHG: jóváhagyja a Videó mód változtatását?
   CACHE_HDD_GAME_LIST: Játéklista cachelés (HDD)
   ENABLE_NOTIFICATIONS: Értesítések
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
+  CFG_NOTIFICATION: 'Beállítás betöltve innen: %s'
+  THM_NOTIFICATION: 'Téma betöltve innen: %s'
+  LNG_NOTIFICATION: 'Nyelv betöltve innen: %s'
   PARTITION_NOTIFICATION:
   - untranslated
   - original: '%s partíció mountolva.'

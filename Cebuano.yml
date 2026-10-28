@@ -49,9 +49,7 @@ translations:
   REMOVE_ALL_SETTINGS: Tangtanga ang setting
   SCROLLING: I-scroll
   SLOW: Hinay
-  MEDIUM:
-  - untranslated
-  - original: Medium
+  MEDIUM: Tunga-tunga
   FAST: Paspas
   DEFDEVICE: Default na menu
   LOAD_FROM_DISC: Pag-load gikan sa disc
@@ -72,9 +70,7 @@ translations:
   SAVING_SETTINGS: Sine-save ang config
   START_DEVICE: Pagsugod sa Device
   REFRESH: Pagpalagsik
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: BDM Start Mode
   HDDMODE: HDD aparato simula mode
   ETHMODE: ETH aparato simula mode
   APPMODE: Mga application simula mode
@@ -88,37 +84,23 @@ translations:
   EXITTO: IGR path
   BGCOLOR: kolor sa background
   TXTCOLOR: kolor sa teksto
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- SMB Server -'
   IP_ADDRESS_TYPE: Klase sa IP address
-  IP_ADDRESS_TYPE_STATIC:
-  - untranslated
-  - original: Static
+  IP_ADDRESS_TYPE_STATIC: Static
   IP_ADDRESS_TYPE_DHCP:
   - untranslated
   - original: DHCP
   IP_ADDRESS: Adres sa IP
   ADDRESS: Adres
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
+  MASK: Mask
+  GATEWAY: Gateway
+  DNS_SERVER: DNS Server
   PORT:
   - untranslated
   - original: Port
-  SHARE:
-  - untranslated
-  - original: Share
+  SHARE: Share
   USER: Gumagamit
-  PASSWORD:
-  - untranslated
-  - original: Password
+  PASSWORD: Password
   NOT_SET: <Hindi nai-set>
   ADDRESS_TYPE: Address type
   ADDR_TYPE_IP:
@@ -142,9 +124,7 @@ translations:
   ERR_FILE_INVALID: Sayop, dili mapadagan ang aytem
   TEST: Sulayi kini
   HINT_GUEST: Biyai nga wala’y sulod alang sa GUEST auth.
-  HINT_MODE1:
-  - untranslated
-  - original: Accurate Reads
+  HINT_MODE1: Tukma nga pagbasa
   HINT_MODE2: Synchronous na Mode
   HINT_MODE3: Alisin sa pagkakakawit ng Syscalls
   HINT_MODE4: 0 PSS mode
@@ -178,36 +158,22 @@ translations:
   VMODE: Mode sa bidyo
   UICOLOR: Dialog sa kulay
   SELCOLOR: Pinil nga kolor
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: I-reset ang mga kolor
   INFO: Impo
-  ALTSTARTUP:
-  - untranslated
-  - original: Custom ELF
+  ALTSTARTUP: Custom nga ELF
   COLOR_SELECTION: kolor nga seleksyon
   RECONNECT: Sumpaysumpaya usab
   HINT_SHARENAME: Iwanang walang laman upang ilista ang pagbabahagi
   ETH_PREFIX: ETH prefix na path
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
+  BACKSPACE: Backspace
   SPACE: Luna
   ENTER: Pagsulud
   MODE: Moda
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC Slot 1
+  VMC_SLOT2: VMC Slot 2
   GAME_ID: ID ng Laro
-  DMA_MODE:
-  - untranslated
-  - original: DMA Mode
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  DMA_MODE: DMA Mode
+  VSYNC: V-Sync
   MODE1:
   - untranslated
   - original: Mode 1
@@ -238,30 +204,22 @@ translations:
   - original: GSM Selector
   HINT_ENABLEGSM: Toggles GSM ON or OFF
   HINT_GSMVMODE: Gipugos nga custom display mode.
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: H-POS
   HINT_XOFFSET: Horizontal Adjustment
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: V-POS
   HINT_YOFFSET: Vertical Adjustment
   OVERSCAN:
   - untranslated
   - original: Overscan
   HINT_OVERSCAN: Overscan Adjustment
-  GSMSKIPVIDEOS:
-  - untranslated
-  - original: FMV Skip
+  GSMSKIPVIDEOS: Laktawi ang FMV
   HINT_GSMSKIPVIDEOS: Laktaw ang Mga Video sa Tibuok nga Paglihok
   CHEAT_SETTINGS: Settings sa cheat
   ENABLECHEAT:
   - untranslated
   - original: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Gihangyo nga i-patch sa PS2RD Cheat Engine ang imong dula.
-  CHEATMODE:
-  - untranslated
-  - original: PS2RD Cheat Engine Mode
+  CHEATMODE: Mode sa PS2RD Cheat Engine
   HINT_CHEATMODE: Awto. pagpili or pagpili sa mga cheat sa dula
   CHEATMODEAUTO: Awto. pagpili sa cheats
   CHEATMODESELECT: Pagpili mga cheat sa dula
@@ -280,9 +238,7 @@ translations:
   AUTO_START_IN_N_SECS: Awtomatik nga pagsugod sa% i …
   AUTOSTARTLAST: Auto start
   HINT_AUTOSTARTLAST: Bililhon sa segundo, 0 aron dili paganahon ang pagsugod sa awto
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: PS2 Logo
   HINT_PS2LOGO: Gipakita alang sa usa ka balido nga logo sa disc nga nahiangay sa
     rehiyon sa console.
   PADEMUCONFIG: I-configure ang PADEMU
@@ -296,9 +252,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Settings alang sa port:'
   HINT_PAD_PORT: Pilia ang Pad Emulator port alang sa mga setting.
   PADEMU_PORT:
@@ -319,9 +273,7 @@ translations:
   HINT_BTINFO: Ipakita ang kasayuran ug gisuportahan nga mga dagway
   HCIVER: 'Bersyon sa HCI:'
   LMPVER: 'Bersyon sa LMP:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  MANUFACTURER: 'Manufacturer ID:'
   SUPFEATURES: 'Gisuportahan nga bahin:'
   'YES': Opo
   'NO': Dili
@@ -329,9 +281,7 @@ translations:
     sa DS3 / DS4.
   BT_NOTSUPPORTED: Ang Bluetooth adapter mahimong dili molihok sa mga tigdumala sa
     DS3 / DS4.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Multitap emulation
   HINT_MTAP_ENABLE: Gipasiga / gipalayo ang pagsundog sa Multitap alang sa pinili
     nga dula.
   MTAP_PORT: Multitap emulator sa port
@@ -345,9 +295,7 @@ translations:
   HINT_GSM_FIELD_FIX: Pag-ayo alang sa mga dula nga ning-glitch ubos sa mga progresibo
     nga mga mode sa video.
   PARENLOCKCONFIG: Setting sa Parental Lock
-  PARENLOCK_PASSWORD:
-  - untranslated
-  - original: Parental Lock Password
+  PARENLOCK_PASSWORD: Password sa Parental Lock
   PARENLOCK_PASSWORD_HINT: Biyai nga blangko aron dili paganahon ang lock sa ginikanan
   PARENLOCK_ENTER_PASSWORD_TITLE: Pagsulud sa Parental Lock Password
   PARENLOCK_PASSWORD_INCORRECT: Ang Parental lock password ay dili husto.
@@ -375,20 +323,14 @@ translations:
   GAME_SETTINGS_REMOVED: '%s settings ay nai-alis.'
   NET_UPDATE_HINT: Nag-overwrite sa kasamtangan nga mga setting sa pagkaangay sa dula
     kung gipaandar.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
+  SETTINGS_SOURCE: Mode sa settings
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
+  PERGAME_SETTINGS: Matag dula
   ALL_SETTINGS: Tanan
   GAME_SETTINGS_PROMPT: Pilia ang mga setting aron makuha.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
+  FORUM_DETAILS: 'Mga forum sa suporta:'
   INFO_TITLE: Titulo
   INFO_GENRE:
   - untranslated

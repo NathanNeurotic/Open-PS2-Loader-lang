@@ -37,9 +37,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Brak połączenia sieciowego.'
   'ON': Włącz
   'OFF': Wyłącz
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Wybierz
   CANCEL: Anuluj
   CIRCLE: O
@@ -126,21 +124,15 @@ translations:
   HINT_MODE6: Wyłącz IGR
   HINT_VMC_SIZE: Zmiana rozmiaru spowoduje przeformatowanie VMC.
   CREATE: Utwórz
-  START:
-  - untranslated
-  - original: Start
+  START: Uruchom
   MODIFY: Modyfikuj
   ABORT: Przerwij
-  RESET:
-  - untranslated
-  - original: Reset
+  RESET: Resetuj
   USE_GENERIC: Użyj Ogólnie
   VMC_SCREEN: Konfiguruj VMC
   VMC_NAME: Nazwa
   SIZE: Rozmiar
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Stan
   VMC_PROGRESS: Postęp
   VMC_FILE_EXISTS: Plik VMC istnieje.
   VMC_FILE_ERROR: Błędny plik VMC, nieprawidłowy rozmiar.
@@ -167,17 +159,13 @@ translations:
   ETH_PREFIX: Prefix Ścieżki ETH
   BACKSPACE: Cofnij
   SPACE: Odstęp
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Tryb
   VMC_SLOT1: Gniazdo VMC 1
   VMC_SLOT2: Gniazdo VMC 2
   GAME_ID: Identyfikator Gry
   DMA_MODE: Tryb DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: Synchronizacja pionowa
   MODE1: Tryb 1
   MODE2: Tryb 2
   MODE3: Tryb 3
@@ -226,9 +214,7 @@ translations:
   CUSTOMIZED_SETTINGS: Dodatkowe Ustawienia
   DOWNLOADED_DEFAULTS: Pobrano domyślne.
   AUTO_START_IN_N_SECS: Auto start w %i s…
-  AUTOSTARTLAST:
-  - untranslated
-  - original: Auto Start
+  AUTOSTARTLAST: Autostart
   HINT_AUTOSTARTLAST: Wartość w sekundach, 0 wyłącza auto start.
   PS2LOGO: Logo PS2
   HINT_PS2LOGO: Logo zostanie wyświetlone wyłącznie jeśli region gry i konsoli będzie
@@ -242,9 +228,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Ustawienia Portu:'
   HINT_PAD_PORT: Wybierz Port emulacji Pada dla ustawień.
   PADEMU_PORT: Emulacja

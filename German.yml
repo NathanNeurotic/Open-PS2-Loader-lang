@@ -258,18 +258,10 @@ translations:
   CFM_VMODE_CHG: Videoeinstellungen bestätigen?
   CACHE_HDD_GAME_LIST: Spieleliste-Cache (HDD)
   ENABLE_NOTIFICATIONS: Benachrichtigungen
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Konfiguration geladen von %s
+  THM_NOTIFICATION: Design geladen von %s
+  LNG_NOTIFICATION: Sprache geladen von %s
+  PARTITION_NOTIFICATION: Partition %s eingebunden.
   OPTIONS: Optionen
   GAME_SETTINGS_SAVED: Spiel Einstellungen Gespeichert.
   GAME_SETTINGS_REMOVED: '%s Einstellungen Entfernt.'

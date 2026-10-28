@@ -8,9 +8,7 @@ translations:
   NETCONFIG: Netwerkconfiguratie
   SHOW_ADVANCED_OPTS: Geavanceerde opties
   NO_ITEMS: <geen waarde>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: Instellingen opgeslagen in %s
   ERROR_SAVING_SETTINGS: Fout bij schrijven van instellingen!
   EXIT: Sluiten
   SETTINGS: Instellingen
@@ -41,18 +39,14 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Geen netwerkconnectie'
   'ON': Aan
   'OFF': Uit
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Select.
   CANCEL: Annuleer
   CIRCLE: Cirkel
   CROSS: Kruis
   GAMES_LIST: Spellenlijst
   COMPAT_SETTINGS: Spelinstellingen
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: Instellingen verwijderen
   SCROLLING: Scrollen
   SLOW: Langzaam
   MEDIUM: Normaal
@@ -76,19 +70,13 @@ translations:
   SAVING_SETTINGS: Configuratie opslaan
   START_DEVICE: Start apparaat
   REFRESH: Vernieuwen
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Startmodus BDM
   HDDMODE: HDD-apparaat startmodus
   ETHMODE: ETH-apparaat startmodus
   APPMODE: Applicaties startmodus
-  AUTO:
-  - untranslated
-  - original: Auto
+  AUTO: Automatisch
   MANUAL: Handmatig
-  STARTNBD:
-  - untranslated
-  - original: Start NBD Server
+  STARTNBD: NBD-server starten
   STARTINGNBD: NBD Server starten…
   RUNNINGNBD: NBD Server uitgevoerd…
   STARTFAILNBD: Mislukt om NBD Server te starten.
@@ -96,9 +84,7 @@ translations:
   EXITTO: IGR pad
   BGCOLOR: Achtergrondkleur
   TXTCOLOR: Tekstkleur
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- SMB-server -'
   IP_ADDRESS_TYPE: IP-adres type
   IP_ADDRESS_TYPE_STATIC: Statisch
   IP_ADDRESS_TYPE_DHCP:
@@ -106,15 +92,9 @@ translations:
   - original: DHCP
   IP_ADDRESS: IP-adres
   ADDRESS: Adres
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
+  MASK: Masker
+  GATEWAY: Gateway
+  DNS_SERVER: DNS-server
   PORT: Poort
   SHARE: Deel
   USER: Gebruiker
@@ -140,9 +120,7 @@ translations:
   SELECTBUTTON: Selecteerknop
   ERR_FRAGMENTED: Foutmelding, het spel is gefragmenteerd
   ERR_FILE_INVALID: Foutmelding, kan het item niet uitvoeren
-  TEST:
-  - untranslated
-  - original: Test Changes
+  TEST: Wijzigingen testen
   HINT_GUEST: Laat leeg voor GUEST auth.
   HINT_MODE1: Accurate reads
   HINT_MODE2: Synchrone modus
@@ -152,21 +130,15 @@ translations:
   HINT_MODE6: IGR uitschakelen
   HINT_VMC_SIZE: Het wijzigen van de grootte zal VMC formatteren
   CREATE: Creëer
-  START:
-  - untranslated
-  - original: Start
+  START: Starten
   MODIFY: Aanpassen
   ABORT: Afbreken
-  RESET:
-  - untranslated
-  - original: Reset
+  RESET: Resetten
   USE_GENERIC: Gebruik generieke
   VMC_SCREEN: Configureer VMC
   VMC_NAME: Naam
   SIZE: Groote
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Status
   VMC_PROGRESS: Voortgang
   VMC_FILE_EXISTS: VMC-bestand bestaat
   VMC_FILE_ERROR: Ongeldige VMC-bestand, grootte is incorrect
@@ -174,9 +146,7 @@ translations:
   ERR_VMC_CONTINUE: Fout met VMC %s, voorzetten met fysieke MC (slot %d)?
   AUTOREFRESH: Automatisch vernieuwen
   ABOUT: Over
-  DEVS:
-  - untranslated
-  - original: Coders
+  DEVS: Programmeurs
   QANDA: Kwaliteitsgarantie
   BDM_PREFIX: BDM-prefix pad
   HINT_EXITPATH: Start aangepaste ELF na een IGR
@@ -185,38 +155,22 @@ translations:
   VMODE: Videomodus
   UICOLOR: Dialoogvensterkleur
   SELCOLOR: Geselecteerde kleur
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
-  INFO:
-  - untranslated
-  - original: Info
+  RESETCOLOR: Kleuren resetten
+  INFO: Info
   ALTSTARTUP: Aangepaste ELF
   COLOR_SELECTION: Kleurselectie
   RECONNECT: Opnieuw verbinden
   HINT_SHARENAME: Laat leeg om het gedeelde in te lijsten
   ETH_PREFIX: ETH-prefix pad
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
-  SPACE:
-  - untranslated
-  - original: Space
-  ENTER:
-  - untranslated
-  - original: Enter
+  BACKSPACE: Backspace
+  SPACE: Spatie
+  ENTER: Enter
   MODE: Modus
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC-sleuf 1
+  VMC_SLOT2: VMC-sleuf 2
   GAME_ID: Spel ID
   DMA_MODE: DMA Modus
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: V-sync
   MODE1: Modus 1
   MODE2: Modus 2
   MODE3: Modus 3
@@ -235,13 +189,9 @@ translations:
   - original: GSM Selector
   HINT_ENABLEGSM: Schakelt GSM AAN of UIT
   HINT_GSMVMODE: Geforceerde aangepast beeldschermmodus
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: H-POS
   HINT_XOFFSET: Horizontale aanpassing
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: V-POS
   HINT_YOFFSET: Verticale aanpassing
   OVERSCAN:
   - untranslated
@@ -262,9 +212,7 @@ translations:
   NO_CHEATS_FOUND: Geen cheats gevonden
   DL_DEFAULTS: Download standaardwaarden
   NET_UPDATE: Netwerkupdate
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE_ALL: Bestaande records overschrijven
   NET_UPDATE_FAILED: Update mislukt.
   NET_UPDATE_CONN_FAILED: Mislukt om te verbinden met update server.
   NET_UPDATE_DONE: Update voltooid.
@@ -288,9 +236,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Instellingen voor poort:'
   HINT_PAD_PORT: Selecteer Pad-emulator poort voor instellingen.
   PADEMU_PORT:
@@ -309,153 +255,75 @@ translations:
   NOT_CONNECTED: Niet verbonden
   BTINFO: Bluetooth adapter information
   HINT_BTINFO: Shows more information and supported features
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  HCIVER: 'HCI-versie:'
+  LMPVER: 'LMP-versie:'
+  MANUFACTURER: 'Fabrikant-ID:'
   SUPFEATURES: 'Support features:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
-  BT_SUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter should be fully compatible with DS3/DS4 controllers.
-  BT_NOTSUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter may not work correctly with DS3/DS4 controllers.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
-  HINT_MTAP_ENABLE:
-  - untranslated
-  - original: Turns on/off Multitap emulation for selected game.
+  'YES': Ja
+  'NO': Nee
+  BT_SUPPORTED: De bluetooth-adapter zou volledig compatibel moeten zijn met DS3/DS4-controllers.
+  BT_NOTSUPPORTED: De bluetooth-adapter werkt mogelijk niet goed met DS3/DS4-controllers.
+  MTAP_ENABLE: Multitap-emulatie
+  HINT_MTAP_ENABLE: Zet multitap-emulatie aan of uit voor de gekozen game.
   MTAP_PORT: Multitap emulator on port
-  HINT_MTAP_PORT:
-  - untranslated
-  - original: Select port for Multitap emulation.
+  HINT_MTAP_PORT: Kies de poort voor multitap-emulatie.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Sommige namaak-DS3's hebben een omweg nodig; deze optie zet die aan.
   GSM_FIELD_FIX: Emulate FIELD flipping
-  HINT_GSM_FIELD_FIX:
-  - untranslated
-  - original: Fix for games that glitch under progressive video modes.
-  PARENLOCKCONFIG:
-  - untranslated
-  - original: Parental Lock Settings
-  PARENLOCK_PASSWORD:
-  - untranslated
-  - original: Parental Lock Password
-  PARENLOCK_PASSWORD_HINT:
-  - untranslated
-  - original: Leave blank to disable the parental lock.
-  PARENLOCK_ENTER_PASSWORD_TITLE:
-  - untranslated
-  - original: Enter Parental Lock Password
-  PARENLOCK_PASSWORD_INCORRECT:
-  - untranslated
-  - original: Parental lock password incorrect.
-  PARENLOCK_DISABLE_WARNING:
-  - untranslated
-  - original: Parental lock disabled.
-  BUILD_DETAILS:
-  - untranslated
-  - original: 'Build Options:'
-  PARENLOCK_INVALID_PASSWORD:
-  - untranslated
-  - original: Error - this password cannot be used.
-  ERR_VMC_FRAGMENTED_CONTINUE:
-  - untranslated
-  - original: VMC %s file is fragmented. Continue with Memory Card in slot %d?
-  AUDIO_SETTINGS:
-  - untranslated
-  - original: Audio Settings
+  HINT_GSM_FIELD_FIX: Oplossing voor games die haperen in progressieve videomodi.
+  PARENLOCKCONFIG: Instellingen ouderlijk slot
+  PARENLOCK_PASSWORD: Wachtwoord ouderlijk slot
+  PARENLOCK_PASSWORD_HINT: Laat leeg om het ouderlijk slot uit te zetten.
+  PARENLOCK_ENTER_PASSWORD_TITLE: Wachtwoord ouderlijk slot invoeren
+  PARENLOCK_PASSWORD_INCORRECT: Wachtwoord ouderlijk slot onjuist.
+  PARENLOCK_DISABLE_WARNING: Ouderlijk slot uitgeschakeld.
+  BUILD_DETAILS: 'Buildopties:'
+  PARENLOCK_INVALID_PASSWORD: 'Fout: dit wachtwoord kan niet worden gebruikt.'
+  ERR_VMC_FRAGMENTED_CONTINUE: VMC-bestand %s is gefragmenteerd. Doorgaan met de geheugenkaart in sleuf %d?
+  AUDIO_SETTINGS: Audio-instellingen
   SFX:
   - untranslated
   - original: Sound Effects
   BOOT_SND:
   - untranslated
   - original: Boot Sound
-  SFX_VOLUME:
-  - untranslated
-  - original: Sound Effects Volume
-  BOOT_SND_VOLUME:
-  - untranslated
-  - original: Boot Sound Volume
-  CFM_VMODE_CHG:
-  - untranslated
-  - original: Confirm video mode change?
+  SFX_VOLUME: Volume geluidseffecten
+  BOOT_SND_VOLUME: Volume opstartgeluid
+  CFM_VMODE_CHG: Wijziging van de videomodus bevestigen?
   CACHE_HDD_GAME_LIST:
   - untranslated
   - original: Cache Game List (HDD)
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Configuratie geladen van %s
+  THM_NOTIFICATION: Thema geladen van %s
+  LNG_NOTIFICATION: Taal geladen van %s
+  PARTITION_NOTIFICATION: Partitie %s gekoppeld.
   OPTIONS:
   - untranslated
   - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
+  GAME_SETTINGS_SAVED: Game-instellingen opgeslagen.
+  GAME_SETTINGS_REMOVED: Instellingen van %s verwijderd.
+  NET_UPDATE_HINT: Overschrijft bestaande compatibiliteitsinstellingen van games als dit aan staat.
+  SETTINGS_SOURCE: Instellingenmodus
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  PERGAME_SETTINGS: Per game
+  ALL_SETTINGS: Alles
+  GAME_SETTINGS_PROMPT: Kies de instellingen om te verwijderen.
+  FORUM_DETAILS: 'Ondersteuningsfora:'
+  INFO_TITLE: Titel
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: Ontwikkelaar
   INFO_DESCRIPTION:
   - untranslated
   - original: Description

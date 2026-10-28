@@ -35,12 +35,8 @@ translations:
   NETWORK_GAMES_LIST_ERROR: '%d: Impossibile elencare i giochi.'
   NETWORK_ERROR_DHCP_FAIL: '%d: Server DHCP non disponibile.'
   NETWORK_ERROR_LINK_FAIL: '%d: Nessuna connessione di rete.'
-  'ON':
-  - untranslated
-  - original: 'On'
-  'OFF':
-  - untranslated
-  - original: 'Off'
+  'ON': Attivo
+  'OFF': Disattivo
   OK:
   - untranslated
   - original: OK
@@ -64,9 +60,7 @@ translations:
   DEBUG: Colori Debug
   NO_CONTROLLER: Nessun controller rilevato, in attesa…
   COVERART: Copertina
-  WIDE_SCREEN:
-  - untranslated
-  - original: Widescreen
+  WIDE_SCREEN: Schermo panoramico
   POWEROFF: Spegni
   LOADING_SETTINGS: Caricamento configurazione…
   SAVING_SETTINGS: Salvataggio configurazione…
@@ -166,9 +160,7 @@ translations:
   RECONNECT: Riconnetti
   HINT_SHARENAME: Lascia vuoto per elencare le condivisioni.
   ETH_PREFIX: Percorso Prefisso ETH
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
+  BACKSPACE: Cancella
   SPACE: Spazio
   ENTER: Invio
   MODE: Modalità
@@ -256,9 +248,7 @@ translations:
   MANUFACTURER: 'ID Produttore:'
   SUPFEATURES: 'Funzionalità supportate:'
   'YES': Sì
-  'NO':
-  - untranslated
-  - original: 'No'
+  'NO': 'No'
   BT_SUPPORTED: "L'adattatore Bluetooth dovrebbe essere perfettamente compatibile con i controller DS3/DS4."
   BT_NOTSUPPORTED: "L'adattatore Bluetooth potrebbe non funzionare correttamente con i controller DS3/DS4."
   MTAP_ENABLE: Emulazione Multitap

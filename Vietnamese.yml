@@ -5,14 +5,10 @@ translations:
   LOCALE: Vietnamese
   SAVE_CHANGES: Lưu thay đổi
   BACK: Quay lại
-  NETCONFIG:
-  - untranslated
-  - original: Network Settings
+  NETCONFIG: Cài đặt mạng
   SHOW_ADVANCED_OPTS: Tùy chọn nâng cao
   NO_ITEMS: <không giá trị>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: Đã lưu cài đặt vào %s
   ERROR_SAVING_SETTINGS: Không lưu được cài đặt!
   EXIT: Thoát
   SETTINGS: Cài đặt
@@ -41,18 +37,14 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Không có kết nối mạng'
   'ON': Bật
   'OFF': Tắt
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Chọn
   CANCEL: Hủy
   CIRCLE: Nút O
   CROSS: Nút X
   GAMES_LIST: Danh sách trò chơi
   COMPAT_SETTINGS: Cài đặt Game
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: Xóa cài đặt
   SCROLLING: Cuộn
   SLOW: Chậm
   MEDIUM: Thường
@@ -76,9 +68,7 @@ translations:
   SAVING_SETTINGS: Lưu cấu hình
   START_DEVICE: Chọn thiết bị lưu trò chơi
   REFRESH: Làm mới
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Chế độ khởi động BDM
   HDDMODE: Chọn HDD
   ETHMODE: Chọn ETH
   APPMODE: Hiển thị menu ứng dụng
@@ -92,27 +82,17 @@ translations:
   EXITTO: Vá IGR
   BGCOLOR: Màu nền
   TXTCOLOR: Màu chữ
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- Máy chủ SMB -'
   IP_ADDRESS_TYPE: Gõ địa chỉ IP
   IP_ADDRESS_TYPE_STATIC: Tĩnh
   IP_ADDRESS_TYPE_DHCP: Động
   IP_ADDRESS: Địa chỉ IP
   ADDRESS: Địa chỉ
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
+  MASK: Mặt nạ
+  GATEWAY: Cổng mạng
+  DNS_SERVER: Máy chủ DNS
   PORT: Cổng
-  SHARE:
-  - untranslated
-  - original: Share
+  SHARE: Thư mục chia sẻ
   USER: Tên
   PASSWORD: Mật khẩu
   NOT_SET: <chưa cài>
@@ -136,15 +116,11 @@ translations:
   SELECTBUTTON: Chọn nút
   ERR_FRAGMENTED: Lỗi, trò chơi bị phân mảnh
   ERR_FILE_INVALID: Error, không thể chạy mục này
-  TEST:
-  - untranslated
-  - original: Test Changes
+  TEST: Thử thay đổi
   HINT_GUEST: Để trống với quyền truy cập Khách.
   HINT_MODE1: Đọc chính xác
   HINT_MODE2: Chế độ đồng bộ
-  HINT_MODE3:
-  - untranslated
-  - original: Unhook Syscalls
+  HINT_MODE3: Gỡ móc Syscall
   HINT_MODE4: Bỏ qua các Video
   HINT_MODE5: Giả lập DVD-DL
   HINT_MODE6: Ngắt IGR
@@ -163,14 +139,10 @@ translations:
   VMC_FILE_EXISTS: File VMC không tồn tại
   VMC_FILE_ERROR: File VMC không hợp lệ, Dung lượng không đúng
   VMC_FILE_NEW: File VMC cần được tạo
-  ERR_VMC_CONTINUE:
-  - untranslated
-  - original: Error accessing VMC %s. Continue with the Memory Card in slot %d?
+  ERR_VMC_CONTINUE: Lỗi truy cập VMC %s. Tiếp tục với thẻ nhớ ở khe %d?
   AUTOREFRESH: Tự động làm tươi
   ABOUT: Thông tin
-  DEVS:
-  - untranslated
-  - original: Coders
+  DEVS: Lập trình viên
   QANDA: Đảm bảo chất lượng
   BDM_PREFIX: BDM prefix path
   HINT_EXITPATH: Boots Custom ELF after an IGR
@@ -179,9 +151,7 @@ translations:
   VMODE: Chế độ Video
   UICOLOR: Màu hộp thoại
   SELCOLOR: Chọn màu
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: Đặt lại màu
   INFO: Thông tin
   ALTSTARTUP: Tùy chỉnh ELF
   COLOR_SELECTION: Màu sắc lựa chọn
@@ -190,19 +160,13 @@ translations:
   ETH_PREFIX: ETH prefix path
   BACKSPACE: Xóa
   SPACE: Cách
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Chế độ
   VMC_SLOT1: VMC ở Khe 1
   VMC_SLOT2: VMC ở Khe 2
-  GAME_ID:
-  - untranslated
-  - original: Game ID
+  GAME_ID: ID trò chơi
   DMA_MODE: Chế độ DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: Đồng bộ dọc
   MODE1:
   - untranslated
   - original: Mode 1
@@ -222,34 +186,20 @@ translations:
   - untranslated
   - original: Mode 6
   GSCONFIG: Cấu hình GSM
-  ETH_OPMODE:
-  - untranslated
-  - original: Ethernet Link Mode
-  ETH_100MFDX:
-  - untranslated
-  - original: 100Mbit Full-duplex
-  ETH_100MHDX:
-  - untranslated
-  - original: 100Mbit Half-duplex
-  ETH_10MFDX:
-  - untranslated
-  - original: 10Mbit Full-duplex
-  ETH_10MHDX:
-  - untranslated
-  - original: 10Mbit Half-duplex
+  ETH_OPMODE: Chế độ liên kết Ethernet
+  ETH_100MFDX: 100Mbit song công
+  ETH_100MHDX: 100Mbit bán song công
+  ETH_10MFDX: 10Mbit song công
+  ETH_10MHDX: 10Mbit bán song công
   GSM_SETTINGS: Cài đặt GSM
   ENABLEGSM:
   - untranslated
   - original: GSM Selector
   HINT_ENABLEGSM: Bật hoặc tắt GSM
   HINT_GSMVMODE: Chế độ hiển thị tùy chỉnh bắt buộc
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: VỊ TRÍ NGANG
   HINT_XOFFSET: Điều chỉnh theo chiều ngang
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: VỊ TRÍ DỌC
   HINT_YOFFSET: Điều chỉnh theo chiều dọc
   OVERSCAN:
   - untranslated
@@ -269,12 +219,8 @@ translations:
   ERR_CHEATS_LOAD_FAILED: 'Lỗi: nạp tệp ăn gian thất bại'
   NO_CHEATS_FOUND: Không thấy cheat
   DL_DEFAULTS: Tải về mặc định
-  NET_UPDATE:
-  - untranslated
-  - original: Network Update
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE: Cập nhật qua mạng
+  NET_UPDATE_ALL: Ghi đè bản ghi có sẵn
   NET_UPDATE_FAILED: Cập nhật thất bại.
   NET_UPDATE_CONN_FAILED: Không thể kết nối đến máy chủ để cập nhật.
   NET_UPDATE_DONE: Cập nhật hoàn thành.
@@ -286,9 +232,7 @@ translations:
   AUTOSTARTLAST: Tự khởi động
   HINT_AUTOSTARTLAST: đơn vị bằng giây(s), 0 để ngắt tự khởi động
   PS2LOGO: Logo PS2
-  HINT_PS2LOGO:
-  - untranslated
-  - original: Displayed for a valid disc logo matching the console's region.
+  HINT_PS2LOGO: Hiện khi biểu tượng đĩa hợp lệ khớp với vùng của máy.
   PADEMUCONFIG: Cấu hình PADEMU
   PADEMU_SETTINGS: Cài đặt giả lập tay cầm
   PADEMU_ENABLE:
@@ -300,9 +244,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Cài đặt cổng:'
   HINT_PAD_PORT: Chọn cổng cài đặt Pad Emulator.
   PADEMU_PORT:
@@ -323,31 +265,21 @@ translations:
   HINT_BTINFO: Hiện thông tin và tính năng hỗ trợ
   HCIVER: 'Phiên bản HCI:'
   LMPVER: 'Phiên bản LMP:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  MANUFACTURER: 'ID nhà sản xuất:'
   SUPFEATURES: 'Tính năng hỗ trợ:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
+  'YES': Có
+  'NO': Không
   BT_SUPPORTED: Bluetooth adapter phải tương thích với tay cầm DS3/DS4.
   BT_NOTSUPPORTED: Bluetooth adapter có thể không hoạt động chính xác với tay cầm
     DS3/DS4.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Giả lập Multitap
   HINT_MTAP_ENABLE: Bật/tắt giả lập Multitap cho trò chơi đã chọn.
   MTAP_PORT: Giả lập Multitap tại cổng
   HINT_MTAP_PORT: Chọn cổng giả lập Multitap.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Một số DS3 giả cần cách xử lý riêng; tùy chọn này bật nó.
   GSM_FIELD_FIX: Emulate FIELD flipping
   HINT_GSM_FIELD_FIX: Khắc phục các game bị trục trặc trong chế độ progressive modes.
   PARENLOCKCONFIG: Cài đặt khóa phụ huynh
@@ -373,60 +305,32 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Đã nạp cấu hình từ %s
+  THM_NOTIFICATION: Đã nạp chủ đề từ %s
+  LNG_NOTIFICATION: Đã nạp ngôn ngữ từ %s
+  PARTITION_NOTIFICATION: Đã gắn phân vùng %s.
   OPTIONS:
   - untranslated
   - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
+  GAME_SETTINGS_SAVED: Đã lưu cài đặt trò chơi.
+  GAME_SETTINGS_REMOVED: Đã xóa cài đặt của %s.
+  NET_UPDATE_HINT: Khi bật, ghi đè các cài đặt tương thích trò chơi có sẵn.
+  SETTINGS_SOURCE: Chế độ cài đặt
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  PERGAME_SETTINGS: Theo trò chơi
+  ALL_SETTINGS: Tất cả
+  GAME_SETTINGS_PROMPT: Chọn cài đặt cần xóa.
+  FORUM_DETAILS: 'Diễn đàn hỗ trợ:'
+  INFO_TITLE: Tiêu đề
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: Nhà phát triển
   INFO_DESCRIPTION:
   - untranslated
   - original: Description
