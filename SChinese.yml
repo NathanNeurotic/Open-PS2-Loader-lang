@@ -237,18 +237,14 @@ translations:
   'NO': 否
   BT_SUPPORTED: 蓝牙适配器应该完全兼容DS3/DS4手柄
   BT_NOTSUPPORTED: 蓝牙适配器可能无法与DS3/DS4手柄匹配
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: 多分插模拟
   HINT_MTAP_ENABLE: 打开/关闭这个游戏的多重模拟.
   MTAP_PORT: 多重模拟端口
   HINT_MTAP_PORT: 选择进行多重模拟的端口
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: 部分仿制 DS3 需要变通处理，此选项会启用它。
   GSM_FIELD_FIX: 模拟播片扫描方式切换
   HINT_GSM_FIELD_FIX: 修正逐行模式下视频播放有问题的游戏.
   PARENLOCKCONFIG: 儿童锁设置

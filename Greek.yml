@@ -35,9 +35,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Δεν υπάρχει σύνδεση δικτύου.'
   'ON': Ναι
   'OFF': Όχι
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Επιλογή
   CANCEL: Άκυρο
   CIRCLE: Ο
@@ -60,9 +58,7 @@ translations:
   - original: Debug Colors
   NO_CONTROLLER: Δεν εντοπίστηκε χειριστήριο, αναμονή…
   COVERART: Εξώφυλλα
-  WIDE_SCREEN:
-  - untranslated
-  - original: Widescreen
+  WIDE_SCREEN: Ευρεία οθόνη
   POWEROFF: Απενεργοποίηση
   LOADING_SETTINGS: Φόρτωση ρυθμίσεων…
   SAVING_SETTINGS: Αποθήκευση ρυθμίσεων…
@@ -82,9 +78,7 @@ translations:
   EXITTO: Προορισμός Μετά Από IGR
   BGCOLOR: Χρώμα στο Φόντο
   TXTCOLOR: Χρώμα Γραμματοσειράς
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- Διακομιστής SMB -'
   IP_ADDRESS_TYPE: Τύπος Διεύθυνσης IP
   IP_ADDRESS_TYPE_STATIC: Στατική
   IP_ADDRESS_TYPE_DHCP:
@@ -93,9 +87,7 @@ translations:
   IP_ADDRESS: Διεύθυνση IP
   ADDRESS: Διεύθυνση
   MASK: Μάσκα Υποδικτύου
-  GATEWAY:
-  - untranslated
-  - original: Gateway
+  GATEWAY: Πύλη
   DNS_SERVER: Εξυπηρετητής DNS
   PORT: Θύρα
   SHARE: Κοινόχρηστο Στοιχείο
@@ -171,9 +163,7 @@ translations:
   VMC_SLOT2: VMC Θέση 2
   GAME_ID: ID Παιχνιδιού
   DMA_MODE: Λειτουργία DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: Κάθετος συγχρονισμός
   MODE1:
   - untranslated
   - original: Mode 1
@@ -194,31 +184,19 @@ translations:
   - original: Mode 6
   GSCONFIG: Ρύθμιση GSM
   ETH_OPMODE: Λειτουργία Σύνδεσης Ethernet
-  ETH_100MFDX:
-  - untranslated
-  - original: 100Mbit Full-duplex
-  ETH_100MHDX:
-  - untranslated
-  - original: 100Mbit Half-duplex
-  ETH_10MFDX:
-  - untranslated
-  - original: 10Mbit Full-duplex
-  ETH_10MHDX:
-  - untranslated
-  - original: 10Mbit Half-duplex
+  ETH_100MFDX: 100Mbit πλήρης αμφίδρομη
+  ETH_100MHDX: 100Mbit ημιαμφίδρομη
+  ETH_10MFDX: 10Mbit πλήρης αμφίδρομη
+  ETH_10MHDX: 10Mbit ημιαμφίδρομη
   GSM_SETTINGS: Ρυθμίσεις GSM
   ENABLEGSM:
   - untranslated
   - original: GSM Selector
   HINT_ENABLEGSM: Ενεργοποιεί/απενεργοποιεί το GSM.
   HINT_GSMVMODE: Εξαναγκασμένη προσαρμογή λειτουργίας οθόνης.
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: Ο-ΘΕΣΗ
   HINT_XOFFSET: Οριζόντια ρύθμιση οθόνης.
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: Κ-ΘΕΣΗ
   HINT_YOFFSET: Κάθετη ρύθμιση οθόνης.
   OVERSCAN: Περιθώρια
   HINT_OVERSCAN: Προσαρμογή των περιθωρίων
@@ -262,9 +240,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Ρυθμίσεις για Θύρα:'
   HINT_PAD_PORT: Επιλέξτε τη θύρα προσομοιωτή προς ρύθμιση.
   PADEMU_PORT:
@@ -294,9 +270,7 @@ translations:
     DS3/DS4.
   BT_NOTSUPPORTED: Ο προσαρμογέας Bluetooth ενδέχεται να μη λειτουργεί σωστά με τα
     χειριστήρια DS3/DS4.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Εξομοίωση Multitap
   HINT_MTAP_ENABLE: Ενεργοποιεί/απενεργοποιεί την εξομοίωση Multitap.
   MTAP_PORT: 'Εξομοιωτής Multitap στη Θύρα:'
   HINT_MTAP_PORT: Επιλέξτε θύρα για εξομοίωση Multitap.

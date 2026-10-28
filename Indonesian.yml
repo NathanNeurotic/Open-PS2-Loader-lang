@@ -15,15 +15,9 @@ translations:
   MENU:
   - untranslated
   - original: Menu
-  BDM_GAMES:
-  - untranslated
-  - original: BDM Games
-  HDD_GAMES:
-  - untranslated
-  - original: HDD Games
-  NET_GAMES:
-  - untranslated
-  - original: ETH Games
+  BDM_GAMES: Game BDM
+  HDD_GAMES: Game HDD
+  NET_GAMES: Game ETH
   APPS: Aplikasi
   THEME: Tema
   LANGUAGE: Bahasa
@@ -43,9 +37,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Tak ada koneksi jaringan'
   'ON': Hidup
   'OFF': Mati
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Pilih
   CANCEL: Batal
   CIRCLE: Bulat
@@ -76,16 +68,12 @@ translations:
   SAVING_SETTINGS: Menyimpan konfigurasi
   START_DEVICE: Memulai perangkat
   REFRESH: Segarkan
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Mode Mulai BDM
   HDDMODE: Memulai mode perangkat HDD
   ETHMODE: Memulai mode perangkat ETH
   APPMODE: Memulai mode Aplikasi
   AUTO: Otomatis
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Mulai Server NBD
   STARTINGNBD: Memulai Server NBD …
   RUNNINGNBD: Menjalankan Server NBD…
@@ -94,9 +82,7 @@ translations:
   EXITTO: Pintasan IGR
   BGCOLOR: Warna latar belakang
   TXTCOLOR: Warna teks
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- Server SMB -'
   IP_ADDRESS_TYPE: Jenis alamat IP
   IP_ADDRESS_TYPE_STATIC: Statis
   IP_ADDRESS_TYPE_DHCP:
@@ -104,12 +90,8 @@ translations:
   - original: DHCP
   IP_ADDRESS: Alamat IP
   ADDRESS: Alamat
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
+  MASK: Mask
+  GATEWAY: Gateway
   DNS_SERVER: Server DNS
   PORT:
   - untranslated
@@ -151,16 +133,12 @@ translations:
   START: Mulai
   MODIFY: Modifikasi
   ABORT: Batal
-  RESET:
-  - untranslated
-  - original: Reset
+  RESET: Setel Ulang
   USE_GENERIC: Gunakan generik
   VMC_SCREEN: Konfigurasi VMC
   VMC_NAME: Nama
   SIZE: Ukuran
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Status
   VMC_PROGRESS: Kemajuan
   VMC_FILE_EXISTS: Berkas VMC ada
   VMC_FILE_ERROR: Berkas VMC cacat, ukuran salah
@@ -178,9 +156,7 @@ translations:
   UICOLOR: Warna dialog
   SELCOLOR: Warna  dipilih
   RESETCOLOR: Atur Ulang Warna
-  INFO:
-  - untranslated
-  - original: Info
+  INFO: Info
   ALTSTARTUP: Kustom ELF
   COLOR_SELECTION: Pemilihan warna
   RECONNECT: Hubungkan kembali
@@ -189,20 +165,12 @@ translations:
   BACKSPACE: Hapus
   SPACE: Spasi
   ENTER: OK
-  MODE:
-  - untranslated
-  - original: Mode
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  MODE: Mode
+  VMC_SLOT1: Slot VMC 1
+  VMC_SLOT2: Slot VMC 2
   GAME_ID: ID Game
   DMA_MODE: Mode DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: V-Sync
   MODE1:
   - untranslated
   - original: Mode 1
@@ -233,13 +201,9 @@ translations:
   - original: GSM Selector
   HINT_ENABLEGSM: Alih GSM ON atau OFF
   HINT_GSMVMODE: Paksa Mode Tampilan Kustom
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: POS-H
   HINT_XOFFSET: Penyesuaian horisontal
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: POS-V
   HINT_YOFFSET: Penyesuaian Vertikal
   OVERSCAN: Tampilan berlebih
   HINT_OVERSCAN: Penyesuaian Tampilan berlebih
@@ -283,9 +247,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Setingan untuk port:'
   HINT_PAD_PORT: Pilih port Stik Emulator untuk setingan
   PADEMU_PORT:
@@ -313,18 +275,14 @@ translations:
   BT_SUPPORTED: adapter Bluetooth harus sepenuhnya cocok dengan Pengontrol DS3/DS4.
   BT_NOTSUPPORTED: adapter Bluetooth mungkin tidak bekerja dengan benar dengan Pengontrol
     DS3/DS4.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Emulasi Multitap
   HINT_MTAP_ENABLE: Aktifkan/NonAktifkan emulasi Multitap untuk game dipilih.
   MTAP_PORT: emulator Multitap pada port
   HINT_MTAP_PORT: Pilih port untuk emulasi Multitap.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Beberapa DS3 palsu butuh cara khusus; opsi ini menyalakannya.
   GSM_FIELD_FIX: Emulasikan FIELD flipping
   HINT_GSM_FIELD_FIX: Perbaiki Game yang bermasalah di mode video progresif.
   PARENLOCKCONFIG: Seting kunci Parental
@@ -351,18 +309,10 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Konfigurasi dimuat dari %s
+  THM_NOTIFICATION: Tema dimuat dari %s
+  LNG_NOTIFICATION: Bahasa dimuat dari %s
+  PARTITION_NOTIFICATION: Partisi %s terpasang.
   OPTIONS:
   - untranslated
   - original: Options
@@ -373,9 +323,7 @@ translations:
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
+  PERGAME_SETTINGS: Per Game
   ALL_SETTINGS: Seluruh
   GAME_SETTINGS_PROMPT: Pilih setingan untuk dihapus.
   FORUM_DETAILS: 'Forum Dukungan:'

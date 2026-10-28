@@ -66,9 +66,7 @@ translations:
   SAVING_SETTINGS: 設置儲存中
   START_DEVICE: 啟動裝置
   REFRESH: 重新整理
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: BDM 裝置啟動模式
   HDDMODE: HDD 裝置啟動模式
   ETHMODE: ETH 裝置啟動模式
   APPMODE: 應用程式啟動模式
@@ -153,9 +151,7 @@ translations:
   VMODE: 影片模式
   UICOLOR: 對話框顏色
   SELCOLOR: 被選定顏色
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: 重設顏色
   INFO: 資訊
   ALTSTARTUP: 自定義 ELF
   COLOR_SELECTION: 顏色選項
@@ -259,18 +255,14 @@ translations:
   'NO': 否
   BT_SUPPORTED: 藍牙適配器完全兼容DS3/DS4手柄
   BT_NOTSUPPORTED: 藍牙適配器與DS3/DS4手柄不匹配
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: 多分接器模擬
   HINT_MTAP_ENABLE: 打開/關閉分插模擬.
   MTAP_PORT: 模擬分插埠
   HINT_MTAP_PORT: 選擇模擬的分插埠
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: 部分仿製 DS3 需要變通處理，此選項會啟用它。
   GSM_FIELD_FIX: 模擬播片掃描方式切換
   HINT_GSM_FIELD_FIX: 修正逐行模式下視頻播放有問題的遊戲.
   PARENLOCKCONFIG: 家長鎖設置
@@ -296,18 +288,10 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: 已從 %s 載入設定
+  THM_NOTIFICATION: 已從 %s 載入主題
+  LNG_NOTIFICATION: 已從 %s 載入語言
+  PARTITION_NOTIFICATION: 已掛載 %s 分割區。
   OPTIONS:
   - untranslated
   - original: Options
@@ -319,21 +303,15 @@ translations:
   PERGAME_SETTINGS: 當前遊戲
   ALL_SETTINGS: 全部
   GAME_SETTINGS_PROMPT: 選擇要刪除的設置。
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  FORUM_DETAILS: 支援論壇：
+  INFO_TITLE: 標題
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: 開發商
   INFO_DESCRIPTION:
   - untranslated
   - original: Description

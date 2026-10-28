@@ -69,9 +69,7 @@ translations:
   ETHMODE: Modo de inicio para dispositivo Rede
   APPMODE: Modo de inicio para Aplicações
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar servidor NBD
   STARTINGNBD: Servidor NBD a iniciar…
   RUNNINGNBD: Servidor NBD a executar…
@@ -163,12 +161,8 @@ translations:
   SPACE: Espaço
   ENTER: Aceitar
   MODE: Modo
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC do slot 1
+  VMC_SLOT2: VMC do slot 2
   GAME_ID: ID do Jogo
   DMA_MODE: Modo DMA
   VSYNC: Sincronização do vídeo

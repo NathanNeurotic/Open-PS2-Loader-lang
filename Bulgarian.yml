@@ -67,9 +67,7 @@ translations:
   SAVING_SETTINGS: Запазвам настройките…
   START_DEVICE: Стартиране на устройството
   REFRESH: Опресни
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Режим на стартиране на BDM
   HDDMODE: HDD режим - стартиране
   ETHMODE: ETH режим - стартиране
   APPMODE: Меню "Приложения" - стартиране
@@ -165,9 +163,7 @@ translations:
   MODE: Регистър
   VMC_SLOT1: VMC Слот 1
   VMC_SLOT2: VMC Слот 2
-  GAME_ID:
-  - untranslated
-  - original: Game ID
+  GAME_ID: ID на играта
   DMA_MODE: ДДП (DMA) режим
   VSYNC: Верт. Синхр.
   MODE1: Режим 1
@@ -231,9 +227,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Настройки на порта:'
   HINT_PAD_PORT: Избор на порта, за който да се зададат настройки.
   PADEMU_PORT: Емулация
@@ -288,9 +282,7 @@ translations:
   CFG_NOTIFICATION: Конфигурацията е заредена от %s
   THM_NOTIFICATION: Темата е заредена от %s
   LNG_NOTIFICATION: Езиков файл е зареден от %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  PARTITION_NOTIFICATION: Дялът %s е монтиран.
   OPTIONS: Опции
   GAME_SETTINGS_SAVED: Настройките на игри запазени.
   GAME_SETTINGS_REMOVED: '%s настройки премахнати.'

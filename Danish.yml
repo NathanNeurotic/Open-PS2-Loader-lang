@@ -37,9 +37,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Ingen netværksforbindelse'
   'ON': Til
   'OFF': Fra
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Vælg
   CANCEL: Annuller
   CIRCLE: Cirkel
@@ -49,9 +47,7 @@ translations:
   REMOVE_ALL_SETTINGS: Fjern indstillinger
   SCROLLING: Scrolling
   SLOW: Langsom
-  MEDIUM:
-  - untranslated
-  - original: Medium
+  MEDIUM: Mellem
   FAST: Hurtig
   DEFDEVICE: Standardmenu
   LOAD_FROM_DISC: Indlæs fra disk
@@ -72,9 +68,7 @@ translations:
   SAVING_SETTINGS: Gemmer indstillinger
   START_DEVICE: Start enhed
   REFRESH: Genindlæs
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Starttilstand for BDM
   HDDMODE: HDD-enhed starttilstand
   ETHMODE: ETH-enhed starttilstand
   APPMODE: Programmenu starttilstand
@@ -97,9 +91,7 @@ translations:
   IP_ADDRESS: IP-adresse
   ADDRESS: Adresse
   MASK: Undernetmaske
-  GATEWAY:
-  - untranslated
-  - original: Gateway
+  GATEWAY: Gateway
   DNS_SERVER: DNS-server
   PORT:
   - untranslated
@@ -138,9 +130,7 @@ translations:
   HINT_MODE6: Deaktiver IGR
   HINT_VMC_SIZE: Ændring af størrelsen vil omformatere VMC
   CREATE: Opret
-  START:
-  - untranslated
-  - original: Start
+  START: Start
   MODIFY: Modificer
   ABORT: Afbryd
   RESET: Nulstil
@@ -148,9 +138,7 @@ translations:
   VMC_SCREEN: Konfigurér VMC
   VMC_NAME: Navn
   SIZE: Størrelse
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Status
   VMC_PROGRESS: Fremskridt
   VMC_FILE_EXISTS: VMC-fil eksisterer allerede
   VMC_FILE_ERROR: Ugyldig VMC-fil, størrelse er ukorrekt
@@ -168,9 +156,7 @@ translations:
   UICOLOR: Dialogfarve
   SELCOLOR: Markeringsfarve
   RESETCOLOR: Gendan farver
-  INFO:
-  - untranslated
-  - original: Info
+  INFO: Info
   ALTSTARTUP: Brugerdefineret ELF
   COLOR_SELECTION: Farvevalg
   RECONNECT: Genopret forbindelse
@@ -184,9 +170,7 @@ translations:
   VMC_SLOT2: VMC-port 2
   GAME_ID: Spil-ID
   DMA_MODE: DMA-tilstand
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: Lodret synkronisering
   MODE1:
   - untranslated
   - original: Mode 1
@@ -264,9 +248,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'indstillinger for port:'
   HINT_PAD_PORT: Vælg Pad Emulator-port for indstillinger.
   PADEMU_PORT:
@@ -285,30 +267,22 @@ translations:
   NOT_CONNECTED: Ikke tilsluttet
   BTINFO: Bluetooth-adapteroplysninger
   HINT_BTINFO: Viser mere information og understøttede funktioner
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
+  HCIVER: 'HCI-version:'
+  LMPVER: 'LMP-version:'
   MANUFACTURER: 'Fabrikant ID:'
   SUPFEATURES: 'Understøttede funktioner:'
   'YES': Ja
   'NO': Nej
   BT_SUPPORTED: Bluetooth-adapter skal være fuldt kompatibel med DS3/DS4 controllere.
   BT_NOTSUPPORTED: Bluetooth-adapter fungerer muligvis ikke korrekt med DS3/DS4 controllere.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Multitap-emulering
   HINT_MTAP_ENABLE: Slå Multitap-emulering Til/Fra for valgte spil.
   MTAP_PORT: Multitap Emulator på port
   HINT_MTAP_PORT: Vælg port til Multitap-emulering.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Nogle falske DS3'er har brug for en omgåelse; denne indstilling slår den til.
   GSM_FIELD_FIX: Emuler FIELD flipping
   HINT_GSM_FIELD_FIX: Fikser spil der har fejl ved progressive video-tilstand.
   PARENLOCKCONFIG: Forældrelås-indstillinger
@@ -335,18 +309,10 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Konfiguration indlæst fra %s
+  THM_NOTIFICATION: Tema indlæst fra %s
+  LNG_NOTIFICATION: Sprog indlæst fra %s
+  PARTITION_NOTIFICATION: Partitionen %s er monteret.
   OPTIONS: Indstillinger
   GAME_SETTINGS_SAVED: Spilindstillinger gemt.
   GAME_SETTINGS_REMOVED: '%s indstillinger fjernet.'

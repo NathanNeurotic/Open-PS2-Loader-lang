@@ -5,9 +5,7 @@ translations:
   LOCALE: Croatian
   SAVE_CHANGES: Spremi Promjene
   BACK: Natrag
-  NETCONFIG:
-  - untranslated
-  - original: Network Settings
+  NETCONFIG: Mrežne postavke
   SHOW_ADVANCED_OPTS: Napredne Postavke
   NO_ITEMS: <nema vrijednosti>
   SETTINGS_SAVED: Postavke spremljene u %s
@@ -68,9 +66,7 @@ translations:
   SAVING_SETTINGS: Spremanje konfiguracije…
   START_DEVICE: Zapocni Uredaj
   REFRESH: Osvjezi
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Način pokretanja BDM-a
   HDDMODE: Pocetni Nacin HDD Uredaja
   ETHMODE: Pocetni Nacin ETH Uredaja
   APPMODE: Nacin Prikaza Aplikacijskog Izbornika
@@ -84,9 +80,7 @@ translations:
   EXITTO: IGR Putanja
   BGCOLOR: Boja Pozadine
   TXTCOLOR: Boja Teksta
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- SMB poslužitelj -'
   IP_ADDRESS_TYPE: Vrsta IP Adrese
   IP_ADDRESS_TYPE_STATIC: Staticna
   IP_ADDRESS_TYPE_DHCP:
@@ -96,9 +90,7 @@ translations:
   ADDRESS: Adresa
   MASK: Maska
   GATEWAY: Propusnica
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
+  DNS_SERVER: DNS poslužitelj
   PORT:
   - untranslated
   - original: Port
@@ -144,9 +136,7 @@ translations:
   VMC_SCREEN: Konfiguriraj VMC
   VMC_NAME: Ime
   SIZE: Velicina
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Status
   VMC_PROGRESS: Napredak
   VMC_FILE_EXISTS: VMC datoteka vec postoji.
   VMC_FILE_ERROR: Nevazeca VMC datoteka, velicina nije tocna.
@@ -164,12 +154,8 @@ translations:
   VMODE: Video Nacin
   UICOLOR: Boja Dijaloga
   SELCOLOR: Odabrana Boja
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
-  INFO:
-  - untranslated
-  - original: Info
+  RESETCOLOR: Vrati boje
+  INFO: Informacije
   ALTSTARTUP: Prilagodeni ELF
   COLOR_SELECTION: Odabir Boje
   RECONNECT: Ponovno spoji
@@ -179,17 +165,11 @@ translations:
   SPACE: Razmak
   ENTER: Unesi
   MODE: Nacin
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC utor 1
+  VMC_SLOT2: VMC utor 2
   GAME_ID: ID Igre
   DMA_MODE: DMA Nacin
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: V-Sync
   MODE1: Nacin 1
   MODE2: Nacin 2
   MODE3: Nacin 3
@@ -240,12 +220,8 @@ translations:
   AUTO_START_IN_N_SECS: Automatski zapocni za %i s…
   AUTOSTARTLAST: Automatski zapocni
   HINT_AUTOSTARTLAST: Vrijednost u sekundama, 0 za onemogucavanje automatskog pocetka.
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
-  HINT_PS2LOGO:
-  - untranslated
-  - original: Displayed for a valid disc logo matching the console's region.
+  PS2LOGO: PS2 logo
+  HINT_PS2LOGO: Prikazuje se za valjan logo diska koji odgovara regiji konzole.
   PADEMUCONFIG: Konfiguriraj PADEMU
   PADEMU_SETTINGS: Postavke Pad Emulatora
   PADEMU_ENABLE:
@@ -257,9 +233,7 @@ translations:
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Postavke Za Port:'
   HINT_PAD_PORT: Odaberi port za postavke Pad Emulatora.
   PADEMU_PORT:
@@ -286,18 +260,14 @@ translations:
   'NO': Ne
   BT_SUPPORTED: Bluetooth adapter bi trebao biti potpuno kompatibilan sa DS3/DS4 kontrolerom.
   BT_NOTSUPPORTED: Bluetooth adapter mozda nece raditi ispravno sa DS3/DS4 kontrolerom.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Emulacija multitapa
   HINT_MTAP_ENABLE: Uklj./Isklj. emulaciju Multitapa za odabranu igru.
   MTAP_PORT: 'Emulator Multitapa na Portu:'
   HINT_MTAP_PORT: Odaberi port za emulaciju Multitapa.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Neki lažni DS3 kontroleri trebaju zaobilazno rješenje; ova ga opcija uključuje.
   GSM_FIELD_FIX: Emuliraj preklapanje FIELD-a
   HINT_GSM_FIELD_FIX: Zakrpe za igre koje se kvare pod progresivnim video nacinom.
   PARENLOCKCONFIG: Postavke Roditeljskog Zakljucavanja
@@ -324,18 +294,10 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Konfiguracija učitana s %s
+  THM_NOTIFICATION: Tema učitana s %s
+  LNG_NOTIFICATION: Jezik učitan s %s
+  PARTITION_NOTIFICATION: Particija %s je montirana.
   OPTIONS:
   - untranslated
   - original: Options
@@ -347,21 +309,15 @@ translations:
   PERGAME_SETTINGS: Po Igri
   ALL_SETTINGS: Sve
   GAME_SETTINGS_PROMPT: Odaberi postavke za ukloniti.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  FORUM_DETAILS: 'Forumi za podršku:'
+  INFO_TITLE: Naslov
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: Razvojni tim
   INFO_DESCRIPTION:
   - untranslated
   - original: Description

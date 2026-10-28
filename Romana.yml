@@ -8,9 +8,7 @@ translations:
   NETCONFIG: Config. retea
   SHOW_ADVANCED_OPTS: Optiuni avansate
   NO_ITEMS: <nici-o valoare>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: Setări salvate în %s
   ERROR_SAVING_SETTINGS: Eroare in scrierea setarilor!
   EXIT: Iesire
   SETTINGS: Setari
@@ -44,14 +42,10 @@ translations:
   CROSS: Cruce
   GAMES_LIST: Lista jocuri
   COMPAT_SETTINGS: Setari joc
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: Elimină setările
   SCROLLING: Miscare
   SLOW: Incet
-  MEDIUM:
-  - untranslated
-  - original: Medium
+  MEDIUM: Mediu
   FAST: Rapid
   DEFDEVICE: Meniu implicit
   LOAD_FROM_DISC: Incarcati de pe disc
@@ -72,22 +66,16 @@ translations:
   SAVING_SETTINGS: Se salveaza configurarea
   START_DEVICE: Pornire dispozitiv
   REFRESH: Reimprospatare
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Mod de pornire BDM
   HDDMODE: Modul de pornire al dispozitivului HDD
   ETHMODE: Modul de pornire al dispozitivului Retea
   APPMODE: Modul de pornire aplicatii
   AUTO: Automat
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Pornire server NBD
   STARTINGNBD: Se porneste serverul NBD…
   RUNNINGNBD: Serverul NBD ruleaza…
-  STARTFAILNBD:
-  - untranslated
-  - original: Failed to start NBD Server.
+  STARTFAILNBD: Serverul NBD nu a putut porni.
   UNLOADNBD: Serverul NBD se descarca…
   EXITTO: cale IGR
   BGCOLOR: Culoare fundal
@@ -130,9 +118,7 @@ translations:
   SELECTBUTTON: Butonul Select
   ERR_FRAGMENTED: '"Eroare, jocul este fragmentat"'
   ERR_FILE_INVALID: '"Eroare, nu a putut rula elementul"'
-  TEST:
-  - untranslated
-  - original: Test Changes
+  TEST: Testează modificările
   HINT_GUEST: Lasati goala pentru autentificarea GUEST.
   HINT_MODE1: Citeste exact
   HINT_MODE2: Modul sincron
@@ -142,9 +128,7 @@ translations:
   HINT_MODE6: Dezactivare IGR
   HINT_VMC_SIZE: Schimbarea dimensiunii va reformata VMC
   CREATE: Creeaza
-  START:
-  - untranslated
-  - original: Start
+  START: Pornește
   MODIFY: Modificare
   ABORT: Anuleaza
   RESET: Resetare
@@ -169,9 +153,7 @@ translations:
   VMODE: Mod video
   UICOLOR: Culoare Dialog
   SELCOLOR: Culoare selectata
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: Resetează culorile
   INFO: Informatii
   ALTSTARTUP: ELF personalizat
   COLOR_SELECTION: Selectie culoare
@@ -186,9 +168,7 @@ translations:
   VMC_SLOT2: Slot VMC 2
   GAME_ID: ID Joc
   DMA_MODE: Mod DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: Sincronizare verticală
   MODE1: Mod 1
   MODE2: Mod 2
   MODE3: Mod 3
@@ -230,9 +210,7 @@ translations:
   NO_CHEATS_FOUND: Nici un cod gasit
   DL_DEFAULTS: Descarca implicit
   NET_UPDATE: Actualizare Retea
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE_ALL: Suprascrie înregistrările existente
   NET_UPDATE_FAILED: Actualizare esuata.
   NET_UPDATE_CONN_FAILED: Nu sa putut conecta serverul de actualizare.
   NET_UPDATE_DONE: Actualizare finalizata.
@@ -243,197 +221,107 @@ translations:
   AUTO_START_IN_N_SECS: Pornire autpmata in %i secunde…
   AUTOSTARTLAST: Pornire automata
   HINT_AUTOSTARTLAST: Valoare in secunde, 0 pentru a opri pornirea automata
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: Sigla PS2
   HINT_PS2LOGO: Only displayed for a valid disc logo which matches the console's region
   PADEMUCONFIG:
   - untranslated
   - original: Configure PADEMU
-  PADEMU_SETTINGS:
-  - untranslated
-  - original: Pad Emulator Settings
+  PADEMU_SETTINGS: Setări emulator de controler
   PADEMU_ENABLE:
   - untranslated
   - original: Pad Emulator
   HINT_PADEMU_ENABLE: Turns on/off PadEmulator for selected game.
   PADEMU_MODE: Pad Emulator mode
-  HINT_PADEMU_MODE:
-  - untranslated
-  - original: Select Pad Emulator mode.
+  HINT_PADEMU_MODE: Alege modul emulatorului de controler.
   DS34USB_MODE: DualShock3 USB
   DS34BT_MODE: DualShock3 BT
   PADPORT: 'Settings for port:'
-  HINT_PAD_PORT:
-  - untranslated
-  - original: Select Pad Emulator port for settings.
+  HINT_PAD_PORT: Alege portul emulatorului de controler pentru setări.
   PADEMU_PORT:
   - untranslated
   - original: Emulation
-  HINT_PADEMU_PORT:
-  - untranslated
-  - original: Turns on/off Pad Emulator for selected port.
+  HINT_PADEMU_PORT: Pornește sau oprește emulatorul de controler pentru portul ales.
   PADEMU_VIB:
   - untranslated
   - original: Vibration
-  HINT_PADEMU_VIB:
-  - untranslated
-  - original: Turns on/off vibration for Pad Emulator selected port.
+  HINT_PADEMU_VIB: Pornește sau oprește vibrația pentru portul ales al emulatorului de controler.
   USBDG_MAC: 'Usb bluetooth adapter mac address:'
   PAD_MAC: 'DS3 Controller paired to mac address:'
-  PAIR:
-  - untranslated
-  - original: Pair
+  PAIR: Asociază
   PAIR_PAD: Pair DS3 Controller
   HINT_PAIRPAD: Pair DS3 Controller with bluetooth adapter mac address.
   NOT_CONNECTED: Not connected
   BTINFO: Bluetooth adapter information
   HINT_BTINFO: Shows more information and supported features
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
+  HCIVER: 'Versiune HCI:'
+  LMPVER: 'Versiune LMP:'
+  MANUFACTURER: 'ID producător:'
   SUPFEATURES: 'Support features:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
-  BT_SUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter should be fully compatible with DS3/DS4 controllers.
-  BT_NOTSUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter may not work correctly with DS3/DS4 controllers.
+  'YES': Da
+  'NO': Nu
+  BT_SUPPORTED: Adaptorul Bluetooth ar trebui să fie complet compatibil cu controlerele DS3/DS4.
+  BT_NOTSUPPORTED: Este posibil ca adaptorul Bluetooth să nu funcționeze corect cu controlerele DS3/DS4.
   MTAP_ENABLE: Multitap emulation
-  HINT_MTAP_ENABLE:
-  - untranslated
-  - original: Turns on/off Multitap emulation for selected game.
+  HINT_MTAP_ENABLE: Pornește sau oprește emularea Multitap pentru jocul ales.
   MTAP_PORT: Multitap emulator on port
-  HINT_MTAP_PORT:
-  - untranslated
-  - original: Select port for Multitap emulation.
+  HINT_MTAP_PORT: Alege portul pentru emularea Multitap.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Unele DS3 contrafăcute au nevoie de o soluție ocolitoare; această opțiune o activează.
   GSM_FIELD_FIX: Emulate FIELD flipping
-  HINT_GSM_FIELD_FIX:
-  - untranslated
-  - original: Fix for games that glitch under progressive video modes.
-  PARENLOCKCONFIG:
-  - untranslated
-  - original: Parental Lock Settings
-  PARENLOCK_PASSWORD:
-  - untranslated
-  - original: Parental Lock Password
-  PARENLOCK_PASSWORD_HINT:
-  - untranslated
-  - original: Leave blank to disable the parental lock.
-  PARENLOCK_ENTER_PASSWORD_TITLE:
-  - untranslated
-  - original: Enter Parental Lock Password
-  PARENLOCK_PASSWORD_INCORRECT:
-  - untranslated
-  - original: Parental lock password incorrect.
-  PARENLOCK_DISABLE_WARNING:
-  - untranslated
-  - original: Parental lock disabled.
-  BUILD_DETAILS:
-  - untranslated
-  - original: 'Build Options:'
-  PARENLOCK_INVALID_PASSWORD:
-  - untranslated
-  - original: Error - this password cannot be used.
-  ERR_VMC_FRAGMENTED_CONTINUE:
-  - untranslated
-  - original: VMC %s file is fragmented. Continue with Memory Card in slot %d?
-  AUDIO_SETTINGS:
-  - untranslated
-  - original: Audio Settings
+  HINT_GSM_FIELD_FIX: Remediere pentru jocurile care au probleme în modurile video progresive.
+  PARENLOCKCONFIG: Setări control parental
+  PARENLOCK_PASSWORD: Parolă control parental
+  PARENLOCK_PASSWORD_HINT: Lasă gol ca să dezactivezi controlul parental.
+  PARENLOCK_ENTER_PASSWORD_TITLE: Introdu parola de control parental
+  PARENLOCK_PASSWORD_INCORRECT: Parola de control parental este greșită.
+  PARENLOCK_DISABLE_WARNING: Controlul parental a fost dezactivat.
+  BUILD_DETAILS: 'Opțiuni de compilare:'
+  PARENLOCK_INVALID_PASSWORD: Eroare - această parolă nu poate fi folosită.
+  ERR_VMC_FRAGMENTED_CONTINUE: Fișierul VMC %s este fragmentat. Continui cu cardul de memorie din slotul %d?
+  AUDIO_SETTINGS: Setări audio
   SFX:
   - untranslated
   - original: Sound Effects
   BOOT_SND:
   - untranslated
   - original: Boot Sound
-  SFX_VOLUME:
-  - untranslated
-  - original: Sound Effects Volume
-  BOOT_SND_VOLUME:
-  - untranslated
-  - original: Boot Sound Volume
-  CFM_VMODE_CHG:
-  - untranslated
-  - original: Confirm video mode change?
+  SFX_VOLUME: Volum efecte sonore
+  BOOT_SND_VOLUME: Volum sunet de pornire
+  CFM_VMODE_CHG: Confirmi schimbarea modului video?
   CACHE_HDD_GAME_LIST:
   - untranslated
   - original: Cache Game List (HDD)
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Configurație încărcată din %s
+  THM_NOTIFICATION: Temă încărcată din %s
+  LNG_NOTIFICATION: Limbă încărcată din %s
+  PARTITION_NOTIFICATION: Partiția %s a fost montată.
   OPTIONS:
   - untranslated
   - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
+  GAME_SETTINGS_SAVED: Setările jocului au fost salvate.
+  GAME_SETTINGS_REMOVED: Setările pentru %s au fost eliminate.
+  NET_UPDATE_HINT: Când e activat, suprascrie setările existente de compatibilitate ale jocurilor.
+  SETTINGS_SOURCE: Mod setări
   GLOBAL_SETTINGS:
   - untranslated
   - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
+  PERGAME_SETTINGS: Per joc
+  ALL_SETTINGS: Toate
+  GAME_SETTINGS_PROMPT: Alege setările de eliminat.
+  FORUM_DETAILS: 'Forumuri de suport:'
+  INFO_TITLE: Titlu
   INFO_GENRE:
   - untranslated
   - original: Genre
   INFO_RELEASE:
   - untranslated
   - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
+  INFO_DEVELOPER: Dezvoltator
   INFO_DESCRIPTION:
   - untranslated
   - original: Description

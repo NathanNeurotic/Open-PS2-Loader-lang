@@ -66,9 +66,7 @@ translations:
   SAVING_SETTINGS: درﺣﺎل ذﺧﻴﺮه ﭘﻴﻜﺮﺑﻨﺪی
   START_DEVICE: دﺳﺘﮕﺎه ﺷﺮوع ﻛﻨﻨﺪه
   REFRESH: ﺗﺎزه ﺳﺎزی
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: حالت شروع BDM
   HDDMODE: HDD ﺣﺎﻟﺖ ﺷﺮوع دﺳﺘﮕﺎه
   ETHMODE: ETH ﺣﺎﻟﺖ ﺷﺮوع دﺳﺘﮕﺎه
   APPMODE: ﻧﺸﺎن دادن ﻣﻨﻮ ﺑﺮﻧﺎﻣﻪ ﻫﺎ
@@ -118,9 +116,7 @@ translations:
   ERR_FILE_INVALID: ﻣﺸﻜﻠﻲ ﭘﻴﺶ آﻣﺪه اﺟﺮای آﻳﺘﻢ اﻣﻜﺎن ﭘﺬﻳﺮ ﻧﻴﺴﺖ
   TEST: ﺗﺴﺖ ﺗﻐﻴﺮﺍﺕ
   HINT_GUEST: ﺑﺮای ورود ﺑﻪ ﺻﻮرت ﻧﺎﺷﻨﺎس ﺧﺎﻟﻲ ﺑﮕﺬارﻳﺪ.
-  HINT_MODE1:
-  - untranslated
-  - original: Accurate Reads
+  HINT_MODE1: خواندن دقیق
   HINT_MODE2: Synchronous ﺣﺎﻟﺖ
   HINT_MODE3: Syscalls ﺑﺎزﻛﺮدن
   HINT_MODE4: رد ﻛﺮدن وﻳﺪﻳﻮ ﻫﺎ
@@ -169,9 +165,7 @@ translations:
   VMC_SLOT2: درﮔﺎه ﺣﺎﻓﻈﻪ ﻣﺟﺎزی 2
   GAME_ID: ﺷﻨﺎﺳﻪ ﺑﺎزی
   DMA_MODE: DMA ﺣﺎﻟﺖ
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: V-Sync
   MODE1: ﺣﺎﻟﺖ 1
   MODE2: ﺣﺎﻟﺖ 2
   MODE3: ﺣﺎﻟﺖ 3
@@ -262,9 +256,7 @@ translations:
   BT_SUPPORTED: .آداﭘﺘﻮر ﺑﻠﻮﺗﻮث ﺑﺎﻳﺪ ﺑﻪ ﺻﻮرت ﻛﺎﻣﻞ ﺑﺎ ﻛﻨﺘﺮﻟﺮ ﻫﺎی ﭘﻠﻲ اﺳﺘﻴﺸﻦ 3 و 4 ﺳﺎزﮔﺎر
     ﺑﺎﺷﺪ
   BT_NOTSUPPORTED: .آداﭘﺘﻮر ﺑﻠﻮﺗﻮث ﺷﺎﻳﺪ ﺑﺎ ﻛﻨﺘﺮﻟﺮ ﻫﺎی ﭘﻠﻲ اﺳﺘﻴﺸﻦ 3 و4 ﻛﺎر ﻧﻜﻨﺪ
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: شبیه‌سازی مولتی‌تپ
   HINT_MTAP_ENABLE: .روﺷﻦ و ﻳﺎ ﺧﺎﻣﻮش ﻛﺮدن ﺷﺒﻴﻪ ﺳﺎزی ﻓﺸﺮدن ﻫﻤﺰﻣﺎن ﭼﻨﺪ ﻛﻠﻴﺪ ﺑﺮای ﺑﺎزی
     ﻫﺎی اﻧﺘﺨﺎب ﺷﺪه
   MTAP_PORT: ﺷﺒﻴﻪ ﺳﺎزی ﻓﺸﺮدن ﻫﻤﺰﻣﺎن ﭼﻨﺪ ﻛﻠﻴﺪ در درﮔﺎه
@@ -272,9 +264,7 @@ translations:
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: برخی دسته‌های DS3 تقلبی به یک راه‌حل جایگزین نیاز دارند؛ این گزینه آن را فعال می‌کند.
   GSM_FIELD_FIX: FIELD flipping ﺷﺒﻴﻪ ﺳﺎزی
   HINT_GSM_FIELD_FIX: .ﮔﻠﻴﭻ دارﻧﺪ progressive درﺳﺖ ﻛﺮدن ﺑﺎزی ﻫﺎیی ﻛﻪ در ﺣﺎﻟﺖ وﻳﺪﻳﻮ
   PARENLOCKCONFIG: ﺗﻨﻈﻴﻤﺎت ﻗﻔﻞ واﻟﺪﻳﻦ
@@ -301,18 +291,10 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: پیکربندی از %s بارگذاری شد
+  THM_NOTIFICATION: پوسته از %s بارگذاری شد
+  LNG_NOTIFICATION: زبان از %s بارگذاری شد
+  PARTITION_NOTIFICATION: پارتیشن %s سوار شد.
   OPTIONS:
   - untranslated
   - original: Options

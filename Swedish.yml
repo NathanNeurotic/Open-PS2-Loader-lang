@@ -35,9 +35,7 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Ingen nätverksanslutning'
   'ON': På
   'OFF': Av
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Välj
   CANCEL: Avbryt
   CIRCLE: Cirkel
@@ -68,15 +66,11 @@ translations:
   SAVING_SETTINGS: Spara config
   START_DEVICE: Starta enheten
   REFRESH: Uppdatera
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Startläge för BDM
   HDDMODE: HDD enhet startläge
   ETHMODE: ETH enhet startläge
   APPMODE: APP-meny visningsläge
-  AUTO:
-  - untranslated
-  - original: Auto
+  AUTO: Auto
   MANUAL: Manuell
   STARTNBD: Starta NBD Server
   STARTINGNBD: NBD Server Startar …
@@ -86,27 +80,17 @@ translations:
   EXITTO: Utgång till
   BGCOLOR: Bakgrundsfärg
   TXTCOLOR: Textfärg
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- SMB-server -'
   IP_ADDRESS_TYPE: IP Address typ
   IP_ADDRESS_TYPE_STATIC: Statisk
   IP_ADDRESS_TYPE_DHCP:
   - untranslated
   - original: DHCP
   IP_ADDRESS: IP
-  ADDRESS:
-  - untranslated
-  - original: Address
-  MASK:
-  - untranslated
-  - original: Mask
-  GATEWAY:
-  - untranslated
-  - original: Gateway
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
+  ADDRESS: Adress
+  MASK: Mask
+  GATEWAY: Gateway
+  DNS_SERVER: DNS-server
   PORT:
   - untranslated
   - original: Port
@@ -144,9 +128,7 @@ translations:
   HINT_MODE6: Inaktivera IGR
   HINT_VMC_SIZE: Ändra storleken kommer att formatera om VMC
   CREATE: Skapa
-  START:
-  - untranslated
-  - original: Start
+  START: Starta
   MODIFY: Ändra
   ABORT: Avbryt
   RESET: Återställ
@@ -154,9 +136,7 @@ translations:
   VMC_SCREEN: Konfigurera VMC
   VMC_NAME: Namn
   SIZE: Storlek
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Status
   VMC_PROGRESS: Framsteg
   VMC_FILE_EXISTS: VMC fil existerar
   VMC_FILE_ERROR: Ogiltig VMC fil, felaktig storlek
@@ -174,28 +154,18 @@ translations:
   UICOLOR: Dialog färg
   SELCOLOR: Vald färg
   RESETCOLOR: Återställ Färger
-  INFO:
-  - untranslated
-  - original: Info
-  ALTSTARTUP:
-  - untranslated
-  - original: Custom ELF
+  INFO: Info
+  ALTSTARTUP: Egen ELF
   COLOR_SELECTION: Färgval
   RECONNECT: Återanslut
   HINT_SHARENAME: Lämna tomt för att lista delning
   ETH_PREFIX: ETH prefix sökväg
   BACKSPACE: Backsteg
   SPACE: Mellanslag
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Läge
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC-plats 1
+  VMC_SLOT2: VMC-plats 2
   GAME_ID: Spel-ID
   DMA_MODE: DMA Läge
   VSYNC: V - Sync
@@ -249,9 +219,7 @@ translations:
   AUTO_START_IN_N_SECS: Autostart om %i s…
   AUTOSTARTLAST: Autostart
   HINT_AUTOSTARTLAST: Värde i sekund(er), 0 inaktiverar Autostart
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: PS2-logga
   HINT_PS2LOGO: Visas bara när skivavbilden matchar konsolens region
   PADEMUCONFIG: Konfigurera PADEMU
   PADEMU_SETTINGS: Pad Emulator Inställningar
@@ -289,18 +257,14 @@ translations:
   'NO': Nej
   BT_SUPPORTED: Bluetooth-adaptern ska vara fullt kompatibel med DS3 / DS4-kontroller.
   BT_NOTSUPPORTED: Bluetooth-adaptern kanske inte fungerar korrekt med DS3 / DS4-kontroller.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Multitap-emulering
   HINT_MTAP_ENABLE: Slår på / av multitap emulering för valt spel.
   MTAP_PORT: Multitap emulator på porten
   HINT_MTAP_PORT: Välj port för multitap emulering.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  HINT_PADEMU_WORKAROUND: Vissa falska DS3:or behöver en lösning; det här alternativet slår på den.
   GSM_FIELD_FIX: Emulera FIELD vändning
   HINT_GSM_FIELD_FIX: Fix för spel med problem i progressivt läge.
   PARENLOCKCONFIG: Föräldrakontroll
@@ -327,18 +291,10 @@ translations:
   ENABLE_NOTIFICATIONS:
   - untranslated
   - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  CFG_NOTIFICATION: Konfiguration inläst från %s
+  THM_NOTIFICATION: Tema inläst från %s
+  LNG_NOTIFICATION: Språk inläst från %s
+  PARTITION_NOTIFICATION: Partitionen %s monterad.
   OPTIONS:
   - untranslated
   - original: Options

@@ -78,9 +78,7 @@ translations:
   TXTCOLOR: 문자 색상
   CAT_SMB_SERVER: '- SMB 서버 -'
   IP_ADDRESS_TYPE: IP 주소 형식
-  IP_ADDRESS_TYPE_STATIC:
-  - untranslated
-  - original: Static
+  IP_ADDRESS_TYPE_STATIC: 고정
   IP_ADDRESS_TYPE_DHCP:
   - untranslated
   - original: DHCP
